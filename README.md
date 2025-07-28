@@ -20,7 +20,7 @@
 
 I am **Mossarraf Hossain Robin**, a passionate **Frontend Developer** with expertise in building responsive, dynamic, and user-friendly websites using **modern web technologies**. I have been freelancing since **2019**, solving real-world problems with clean, scalable, and optimized code.
 
-Apart from development, I am highly interested in **Cybersecurity**, **Linux Administration**, and **Network Defense**. I am committed to improving my problem-solving skills through **Data Structures, Algorithms, and System Design**. My career goal is to become a **versatile Software Engineer and Cybersecurity Specialist**.
+Apart from development, I am highly interested in **Cybersecurity** and **Network Defense**. I am committed to improving my problem-solving skills through **Data Structures, Algorithms, and System Design**. My career goal is to become a **versatile Software Engineer and Cybersecurity Specialist**.
 
 ---
 
