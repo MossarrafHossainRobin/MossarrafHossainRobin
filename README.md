@@ -77,35 +77,66 @@ Explore my top projects showcasing web development skills and responsive design:
     <tr>
       <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://mossarrafhossainrobin.github.io/portfolio/" target="_blank"><b>MyPortfolio</b></a></td>
       <td style="padding: 8px; border-bottom: 1px solid #ddd;"><span title="A personal portfolio website showcasing skills, projects, and contact information with a responsive design.">Portfolio showcasing skills & projects</span></td>
-      <td style="padding: 8px; border-bottom: 1px solid #ddd;">HTML, Tailwind CSS, Bootstrap</td>
-      <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://github.com/mossarrafhossainrobin/portfolio" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit-Repo"/></a></td>
-      <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://mossarrafhossainrobin.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Site"/></a></td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd;">  
+        <img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-264de4?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
+       </td>
+     <td>
+        <a href="https://github.com/mossarrafhossainrobin/portfolio" target="_blank">
+          <img src="https://img.shields.io/badge/Visit_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+      <td>
+        <a href="https://mossarrafhossainrobin.github.io/portfolio/" target="_blank">
+          <img src="https://img.shields.io/badge/Visit_Site-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+        </a>
+      </td>
     </tr>
     <tr>
       <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://onebite.wuaze.com" target="_blank"><b>OneBite</b></a></td>
       <td style="padding: 8px; border-bottom: 1px solid #ddd;"><span title="A restaurant website with an online food ordering system, menu browsing, and mobile-responsive design.">Online Food ordering system</span></td>
-      <td style="padding: 8px; border-bottom: 1px solid #ddd;">PHP, HTML, CSS, Bootstrap, JavaScript, MySQL</td>
-      <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://github.com/MossarrafHossainRobin/onebite" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit-Repo"/></a></td>
-      <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://onebite.wuaze.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Site"/></a></td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd;">  
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-264de4?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://github.com/MossarrafHossainRobin/onebite" target="_blank"><img src="https://img.shields.io/badge/Visit_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit-Repo"/></a></td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://onebite.wuaze.com" target="_blank"><img src="https://img.shields.io/badge/Visit_Site-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Site"/></a></td>
     </tr>
     <tr>
       <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://elitefootwear.wuaze.com" target="_blank"><b>Elite Footwear</b></a></td>
       <td style="padding: 8px; border-bottom: 1px solid #ddd;"><span title="An online shoe store platform with product browsing, add-to-cart, and purchase features, optimized for mobile.">Online shoe store & cart</span></td>
-      <td style="padding: 8px; border-bottom: 1px solid #ddd;">PHP, HTML, CSS, Bootstrap, JavaScript, MySQL</td>
-      <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://github.com/MossarrafHossainRobin/elitefootwear" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit-Repo"/></a></td>
-      <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://elitefootwear.wuaze.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Site"/></a></td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd;">  
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-264de4?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://github.com/MossarrafHossainRobin/elitefootwear" target="_blank"><img src="https://img.shields.io/badge/Visit_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit-Repo"/></a></td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://elitefootwear.wuaze.com" target="_blank"><img src="https://img.shields.io/badge/Visit_Site-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Site"/></a></td>
     </tr>
     <tr>
       <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://prottoyfoundation.wuaze.com/" target="_blank"><b>Prottoy Foundation</b></a></td>
       <td style="padding: 8px; border-bottom: 1px solid #ddd;"><span title="A charity platform with donation sections, awareness articles, events, and volunteer sign-up, designed for accessibility.">Charity & awareness platform</span></td>
-      <td style="padding: 8px; border-bottom: 1px solid #ddd;">PHP, HTML, CSS, Bootstrap, JavaScript, MySQL</td>
-      <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://github.com/mossarrafhossainrobin/prottoy-foundation" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit-Repo"/></a></td>
-      <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://prottoyfoundation.wuaze.com/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Site"/></a></td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd;">  
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-264de4?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://github.com/mossarrafhossainrobin/prottoy-foundation" target="_blank"><img src="https://img.shields.io/badge/Visit_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit-Repo"/></a></td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://prottoyfoundation.wuaze.com/" target="_blank"><img src="https://img.shields.io/badge/Visit_Site-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Site"/></a></td>
     </tr>
   </tbody>
 </table>
 
-Check out more projects on my [GitHub](https://github.com/mossarrafhossainrobin?tab=repositories)!
+#### Check out more projects on my [GitHub](https://github.com/mossarrafhossainrobin?tab=repositories)!
 
 
 ---
