@@ -179,4 +179,4 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
 
 ---
 
-> 🧠 *"I break things, learn from them, and rebuild them better."*
+> ## *"I break things, learn from them, and rebuild them better."*
