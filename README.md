@@ -59,7 +59,6 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
 </div>
 
 ---
-
 ## 🚀 Featured Projects
 
 <table>
@@ -73,7 +72,7 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
     </tr>
   </thead>
   <tbody>
-    <tr>
+   <tr>
       <td><b>MyPortfolio</b></td>
       <td><span title="A personal portfolio website showcasing my skills, projects, and contact information. Built with Next.js, Tailwind CSS, and responsive design principles.">🎨 Hover to read</span></td>
       <td>Next.js, Tailwind CSS</td>
@@ -84,21 +83,6 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
       </td>
       <td>
         <a href="https://myportfolio.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Website-Live-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>TaskMaster</b></td>
-      <td><span title="A task management application featuring user authentication, categorization, and drag-and-drop task organization. Built using MERN stack.">🧩 Hover to read</span></td>
-      <td>React, Node.js, MongoDB</td>
-      <td>
-        <a href="https://github.com/mossarrafhossainrobin/taskmaster" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://taskmaster-app.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/Website-Live-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
         </a>
       </td>
