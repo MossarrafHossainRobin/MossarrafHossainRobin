@@ -61,7 +61,7 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
 ---
 ## 🚀 Featured Projects
 
-Explore my top projects showcasing web development skills and responsive design:
+#### Explore my top projects showcasing web development skills and responsive design:
 
 <table style="border-collapse: collapse; width: 100%;">
   <thead>
