@@ -16,7 +16,7 @@
 
 ---
 
-## **About Me**
+## 📌 About Me
 
 I am **Mossarraf Hossain Robin**, a passionate **Frontend Developer** with expertise in building responsive, dynamic, and user-friendly websites using **modern web technologies**. I have been freelancing since **2019**, solving real-world problems with clean, scalable, and optimized code.
 
@@ -24,16 +24,16 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
 
 ---
 
-## **Tech Stack**
+## 💻 Tech Stack
 
 <div align="center">
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()  
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)]()
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)]()
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)]()
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()  
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]()
@@ -45,7 +45,7 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
 
 ---
 
-## **🛠 Tools & IDEs**
+## 🛠 Tools & IDEs
 
 <div align="center">
 
@@ -60,9 +60,73 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
 
 ---
 
-## **📊 GitHub Stats**
+## 🚀 Featured Projects
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Tech Stack</th>
+      <th>Repository</th>
+      <th>Live Demo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>MyPortfolio</b></td>
+      <td><span title="A personal portfolio website showcasing my skills, projects, and contact information. Built with Next.js, Tailwind CSS, and responsive design principles.">🎨 Hover to read</span></td>
+      <td>Next.js, Tailwind CSS</td>
+      <td>
+        <a href="https://github.com/mossarrafhossainrobin/myportfolio" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://myportfolio.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Website-Live-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>TaskMaster</b></td>
+      <td><span title="A task management application featuring user authentication, categorization, and drag-and-drop task organization. Built using MERN stack.">🧩 Hover to read</span></td>
+      <td>React, Node.js, MongoDB</td>
+      <td>
+        <a href="https://github.com/mossarrafhossainrobin/taskmaster" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://taskmaster-app.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Website-Live-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Blogify</b></td>
+      <td><span title="A modern blog platform allowing users to register, create, and edit blog posts with markdown and comments. Built for scalability.">📝 Hover to read</span></td>
+      <td>Next.js, Prisma</td>
+      <td>
+        <a href="https://github.com/mossarrafhossainrobin/blogify" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://blogify-app.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Website-Live-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mossarrafhossainrobin&show_icons=true&theme=radical&count_private=true&hide_title=false&hide_border=false&border_radius=10" height="150px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mossarrafhossainrobin&layout=compact&langs_count=8&theme=radical&hide_border=false&border_radius=10" height="150px"/>
@@ -72,5 +136,4 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
 
 ---
 
-- 🧠 *"I break things, learn from them, and rebuild them better."*
-
+> 🧠 *"I break things, learn from them, and rebuild them better."*
