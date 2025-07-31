@@ -61,49 +61,51 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
 ---
 ## 🚀 Featured Projects
 
-<table>
+Explore my top projects showcasing web development skills and responsive design:
+
+<table style="border-collapse: collapse; width: 100%;">
   <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Tech Stack</th>
-      <th>Repository</th>
-      <th>Live Demo</th>
+    <tr style="background-color: #f4f4f4; text-align: left;">
+      <th style="padding: 8px; border-bottom: 2px solid #ddd;">Project</th>
+      <th style="padding: 8px; border-bottom: 2px solid #ddd;">Description</th>
+      <th style="padding: 8px; border-bottom: 2px solid #ddd;">Tech Stack</th>
+      <th style="padding: 8px; border-bottom: 2px solid #ddd;">Repository</th>
+      <th style="padding: 8px; border-bottom: 2px solid #ddd;">Live Demo</th>
     </tr>
   </thead>
   <tbody>
-   <tr>
-      <td><b>MyPortfolio</b></td>
-      <td><span title="A personal portfolio website showcasing my skills, projects, and contact information. Built with Next.js, Tailwind CSS, and responsive design principles.">🎨 Hover to read</span></td>
-      <td>Next.js, Tailwind CSS</td>
-      <td>
-        <a href="https://github.com/mossarrafhossainrobin/myportfolio" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://myportfolio.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Website-Live-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
-        </a>
-      </td>
+    <tr>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://mossarrafhossainrobin.github.io/portfolio/" target="_blank"><b>MyPortfolio</b></a></td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd;"><span title="A personal portfolio website showcasing skills, projects, and contact information with a responsive design.">Portfolio showcasing skills & projects</span></td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd;">HTML, Tailwind CSS, Bootstrap</td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://github.com/mossarrafhossainrobin/portfolio" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a></td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://mossarrafhossainrobin.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>
     </tr>
     <tr>
-      <td><b>Blogify</b></td>
-      <td><span title="A modern blog platform allowing users to register, create, and edit blog posts with markdown and comments. Built for scalability.">📝 Hover to read</span></td>
-      <td>Next.js, Prisma</td>
-      <td>
-        <a href="https://github.com/mossarrafhossainrobin/blogify" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://blogify-app.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Website-Live-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
-        </a>
-      </td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://onebite.wuaze.com" target="_blank"><b>OneBite</b></a></td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd;"><span title="A restaurant website with an online food ordering system, menu browsing, and mobile-responsive design.">Restaurant ordering system</span></td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd;">HTML, CSS, Bootstrap, JavaScript</td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://github.com/MossarrafHossainRobin/onebite" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a></td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://onebite.wuaze.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://elitefootwear.wuaze.com" target="_blank"><b>Elite Footwear</b></a></td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd;"><span title="An online shoe store platform with product browsing, add-to-cart, and purchase features, optimized for mobile.">Online shoe store & cart</span></td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd;">HTML, CSS, Bootstrap, JavaScript</td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://github.com/MossarrafHossainRobin/elitefootwear" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a></td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://elitefootwear.wuaze.com" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>
+    </tr>
+    <tr>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://prottoyfoundation.wuaze.com/" target="_blank"><b>Prottoy Foundation</b></a></td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd;"><span title="A charity platform with donation sections, awareness articles, events, and volunteer sign-up, designed for accessibility.">Charity & awareness platform</span></td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd;">HTML, CSS, Bootstrap, JavaScript</td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://github.com/mossarrafhossainrobin/prottoy-foundation" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a></td>
+      <td style="padding: 8px; border-bottom: 1px solid #ddd;"><a href="https://prottoyfoundation.wuaze.com/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo"/></a></td>
     </tr>
   </tbody>
 </table>
+
+Check out more projects on my [GitHub](https://github.com/mossarrafhossainrobin?tab=repositories)!
 
 
 ---
