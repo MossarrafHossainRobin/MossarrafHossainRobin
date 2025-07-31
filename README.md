@@ -1,5 +1,8 @@
 <div align="center">
 
+
+
+
 # 👋 Hi, I'm **Mossarraf Hossain Robin**
 
 🎓 **Computer Science Student** at **Green University of Bangladesh, Dhaka**  
@@ -133,6 +136,29 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
       <td ><a href="https://github.com/mossarrafhossainrobin/prottoy-foundation" target="_blank"><img src="https://img.shields.io/badge/Visit_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit-Repo"/></a></td>
       <td ><a href="https://prottoyfoundation.wuaze.com/" target="_blank"><img src="https://img.shields.io/badge/Visit_Site-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Site"/></a></td>
     </tr>
+  <tr>
+  <td><b>Line Coding Visualizer</b></td>
+  <td>
+    <span title="An educational tool to visualize digital line coding techniques (like NRZ, Manchester, etc.). Helps students understand encoding patterns in data communication. Built for learning purpose.">Educational line coding simulator</span>
+  </td>
+  <td style="padding: 8px; border-bottom: 1px solid #ddd;">  
+    <img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS-264de4?style=flat-square&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
+  </td>
+  <td>
+    <a href="https://github.com/mossarrafhossainrobin/Bit-by-Bit-line-coding-visualizer" target="_blank">
+      <img src="https://img.shields.io/badge/Visit_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit-Repo"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://mossarrafhossainrobin.github.io/Bit-by-Bit-Line-Coding-Visualizer/" target="_blank">
+      <img src="https://img.shields.io/badge/Visit_Site-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Site"/>
+    </a>
+  </td>
+</tr>
+
   </tbody>
 </table>
 
