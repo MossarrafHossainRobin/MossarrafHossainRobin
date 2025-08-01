@@ -3,7 +3,12 @@
 
 
 
-# 👋 Hi, I'm **Mossarraf Hossain Robin**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=38&duration=3000&pause=500&color=00C853&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Mossarraf+Hossain+Robin" />
+</p>
+
+
+
 
 🎓 **Computer Science Student** at **Green University of Bangladesh, Dhaka**  
 💻 **Frontend Developer | Cybersecurity Enthusiast | Problem Solver**  
