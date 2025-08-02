@@ -163,6 +163,27 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
     </a>
   </td>
 </tr>
+<tr>
+  <td><b>Inventory Management System</b></td>
+  <td>
+    <span title="A Java-based inventory management system featuring admin dashboard, user management, order tracking, and UI assets. Designed to simplify product and order management for businesses.">Java inventory management system with admin dashboard and order tracking</span>
+  </td>
+  <td style="padding: 8px; border-bottom: 1px solid #ddd;">  
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  </td>
+  <td>
+    <a href="https://github.com/mossarrafhossainrobin/InventoryManagementApp" target="_blank">
+      <img src="https://img.shields.io/badge/Visit_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit Repo"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://mossarrafhossainrobin.github.io/InventoryManagementApp-Demo/" target="_blank">
+      <img src="https://img.shields.io/badge/Visit_Demo-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Demo"/>
+    </a>
+  </td>
+</tr>
+
 
   </tbody>
 </table>
