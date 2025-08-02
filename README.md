@@ -179,7 +179,7 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
   </td>
   <td>
     <a href="https://github.com/MossarrafHossainRobin/Inventory-Management-System-Java-Swing-UI" target="_blank">
-      <img src="https://img.shields.io/badge/Visit_Demo-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Demo"/>
+      <img src="https://img.shields.io/badge/Visit_Site-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Site"/>
     </a>
   </td>
 </tr>
@@ -202,7 +202,7 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
   </td>
   <td>
     <a href="https://mossarrafhossainrobin.github.io/Bit-To-Bit-Array-Multiplier/" target="_blank">
-      <img src="https://img.shields.io/badge/Visit_Demo-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Demo"/>
+      <img src="https://img.shields.io/badge/Visit_Site-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Site"/>
     </a>
   </td>
 </tr>
