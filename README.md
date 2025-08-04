@@ -256,7 +256,7 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
         <img src="https://img.shields.io/badge/ZIP-000000?style=flat-square&logo=zip&logoColor=white" alt="ZIP File" title="ZIP File" />
       </td>
       <td>
-        <a href="./Latex-Lab-Template.zip" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/MossarrafHossainRobin/Educational-Resources/tree/main/Templates" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Download-ZIP-0a66c2?style=flat-square&logo=archive&logoColor=white" alt="Download ZIP" title="Download LaTeX Template ZIP" />
         </a>
       </td>
