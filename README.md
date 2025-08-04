@@ -212,8 +212,8 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
   </tbody>
 </table>
 
-#### Check out more projects on my [GitHub](https://github.com/mossarrafhossainrobin?tab=repositories)!
 
+---
 <div>
 
 <h2>📚 Educational Resources</h2>
@@ -269,6 +269,7 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
 
 </div>
 
+#### Check out more projects on my [GitHub](https://github.com/mossarrafhossainrobin?tab=repositories)!
 ---
 
 ## 📊 GitHub Stats
