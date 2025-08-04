@@ -216,7 +216,7 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
 ---
 <div>
 
-## [📚 Educational Resources](https://github.com/MossarrafHossainRobin/Educational-Resources)
+## [📚 Educational Hub](https://github.com/MossarrafHossainRobin/Educational-Resources)
 
 
 
