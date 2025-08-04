@@ -216,7 +216,12 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
 ---
 <div>
 
-<h2>📚 Educational Resources</h2>
+<h2>
+  <a href="https://github.com/MossarrafHossainRobin/Educational-Resources" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+    📚 Educational Resources
+  </a>
+</h2>
+
 
 <table>
   <thead>
