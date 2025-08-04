@@ -214,6 +214,60 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
 
 #### Check out more projects on my [GitHub](https://github.com/mossarrafhossainrobin?tab=repositories)!
 
+<div>
+
+<h2>📚 Educational Resources</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>📁 Type</th>
+      <th>📌 Title/Name</th>
+      <th>📄 Format</th>
+      <th>📝 Description</th>
+      <th>🔗 Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>PDF</td>
+      <td>Data Structures Notes</td>
+      <td>.pdf</td>
+      <td>Key concepts of Data Structures</td>
+      <td><a href="./notes/data-structures.pdf">View</a></td>
+    </tr>
+    <tr>
+      <td>LaTeX Template</td>
+      <td>University Report Template</td>
+      <td>.tex</td>
+      <td>Clean template for academic reports</td>
+      <td><a href="./templates/report-template.tex">Download</a></td>
+    </tr>
+    <tr>
+      <td>Diagram/Image</td>
+      <td>Binary Tree Visualization</td>
+      <td>.png</td>
+      <td>Helps understand tree structure visually</td>
+      <td><a href="./images/binary-tree.png">View</a></td>
+    </tr>
+    <tr>
+      <td>Cheat Sheet</td>
+      <td>Linux Command Guide</td>
+      <td>.pdf</td>
+      <td>Common Linux terminal commands</td>
+      <td><a href="./cheatsheets/linux.pdf">View</a></td>
+    </tr>
+    <tr>
+      <td>ZIP Archive</td>
+      <td>Full Lab Manual</td>
+      <td>.zip</td>
+      <td>Includes lab exercises and docs</td>
+      <td><a href="./labs/lab-manual.zip">Download</a></td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 ---
 
