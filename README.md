@@ -224,7 +224,7 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
   <thead>
     <tr>
       <th>📁 Type</th>
-      <th>📌 Title/Name</th>
+      <th>📌 Title</th>
       <th>📄 Format</th>
       <th>📝 Description</th>
       <th>🔗 Link</th>
@@ -232,39 +232,20 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
   </thead>
   <tbody>
     <tr>
-      <td>PDF</td>
-      <td>Data Structures Notes</td>
-      <td>.pdf</td>
-      <td>Key concepts of Data Structures</td>
-      <td><a href="./notes/data-structures.pdf">View</a></td>
-    </tr>
-    <tr>
-      <td>LaTeX Template</td>
-      <td>University Report Template</td>
-      <td>.tex</td>
-      <td>Clean template for academic reports</td>
-      <td><a href="./templates/report-template.tex">Download</a></td>
-    </tr>
-    <tr>
-      <td>Diagram/Image</td>
-      <td>Binary Tree Visualization</td>
-      <td>.png</td>
-      <td>Helps understand tree structure visually</td>
-      <td><a href="./images/binary-tree.png">View</a></td>
-    </tr>
-    <tr>
-      <td>Cheat Sheet</td>
-      <td>Linux Command Guide</td>
-      <td>.pdf</td>
-      <td>Common Linux terminal commands</td>
-      <td><a href="./cheatsheets/linux.pdf">View</a></td>
-    </tr>
-    <tr>
-      <td>ZIP Archive</td>
-      <td>Full Lab Manual</td>
-      <td>.zip</td>
-      <td>Includes lab exercises and docs</td>
-      <td><a href="./labs/lab-manual.zip">Download</a></td>
+      <td>📄 Assignment</td>
+      <td>Web Programming Assignment</td>
+      <td>
+        <img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+        <img src="https://img.shields.io/badge/CSS-264de4?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+        <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      </td>
+      <td>Creating a user registration form with frontend validation and Bootstrap styling.</td>
+      <td>
+        <a href="./Assignment/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Download-ZIP-0a66c2?style=flat-square&logo=archive&logoColor=white" alt="Download ZIP" />
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
