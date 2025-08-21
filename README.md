@@ -331,13 +331,16 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
 
 ## 📈 Detailed Statistics
 
-<div align="center">
-
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MossarrafHossainRobin&theme=2077" height="150px"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MossarrafHossainRobin&theme=2077" height="150px"/>
-
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MossarrafHossainRobin&theme=2077" height="150px"/>
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MossarrafHossainRobin&theme=2077" height="150px"/>
+    </td>
+  </tr>
+</table>
 
 
 ---
