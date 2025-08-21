@@ -311,29 +311,39 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mossarrafhossainrobin&show_icons=true&theme=radical&count_private=true&hide_title=false&hide_border=false&border_radius=10" height="150px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mossarrafhossainrobin&layout=compact&langs_count=8&theme=radical&hide_border=false&border_radius=10" height="150px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mossarrafhossainrobin&theme=radical&hide_border=false&border_radius=10" height="150px"/>
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=MossarrafHossainRobin&show_icons=true&theme=radical&count_private=true&hide_title=false&hide_border=false&border_radius=10" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MossarrafHossainRobin&layout=compact&langs_count=8&theme=radical&hide_border=false&border_radius=10" height="160px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MossarrafHossainRobin&theme=radical&hide_border=false&border_radius=10" height="160px"/>
 
 </div>
 
+---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MossarrafHossainRobin&theme=" alt="MossarrafHossainRobin" /></p>
+<h3 align="center">📈 Detailed Statistics</h3>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/MossarrafHossainRobin">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MossarrafHossainRobin&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MossarrafHossainRobin&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MossarrafHossainRobin&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MossarrafHossainRobin&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MossarrafHossainRobin&theme=2077" height="180em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MossarrafHossainRobin&theme=default"/>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MossarrafHossainRobin&theme=2077" height="180px"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MossarrafHossainRobin&theme=2077" height="180px"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MossarrafHossainRobin&theme=2077" height="180px"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MossarrafHossainRobin&theme=2077" height="180px"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MossarrafHossainRobin&theme=2077" height="180px"/>
+
+</div>
+
+---
+
+## ⚡ Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MossarrafHossainRobin&theme=github-compact" width="95%"/>
+</div>
+
+
+
 
 ---
 
