@@ -347,7 +347,7 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
 
 ---
 
- ## *"I break things, learn from them, and rebuild them better."*
+ ## "I break things, learn from them, and rebuild them better."
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
