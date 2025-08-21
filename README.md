@@ -208,6 +208,30 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
   </td>
 </tr>
 
+<tr>
+  <td><b> NetOptima</b></td>
+  <td>
+    <span title="A Computer Networking Project">Networking IP analyzer</span>
+  </td>
+  <td style="padding: 8px; border-bottom: 1px solid #ddd;">  
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Swing-6db33f?style=flat-square&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS-264de4?style=flat-square&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
+  </td>
+  <td>
+    <a href="https://github.com/MossarrafHossainRobin/Bit-To-Bit-Array-Multiplier" target="_blank">
+      <img src="https://img.shields.io/badge/Visit_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit Repo"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://mossarrafhossainrobin.github.io/NetOptima" target="_blank">
+      <img src="https://img.shields.io/badge/Visit_Site-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Site"/>
+    </a>
+  </td>
+</tr>
+
 
   </tbody>
 </table>
