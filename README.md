@@ -309,7 +309,7 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+
 
 <div align="center">
 
@@ -322,9 +322,8 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h3 align="center">📈 Detailed Statistics</h3>
+## 📈 Detailed Statistics
 
 <div align="center">
 
@@ -348,4 +347,6 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
 
 ---
 
-> ## *"I break things, learn from them, and rebuild them better."*
+ ## *"I break things, learn from them, and rebuild them better."*
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
