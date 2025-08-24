@@ -23,7 +23,7 @@
 
 
 
-🎓 **Computer Science Student** at **Green University of Bangladesh, Dhaka**  
+🎓 **Computer Science and Engineering Student** at **Green University of Bangladesh, Dhaka**  
 💻 **Frontend Developer | Cybersecurity Enthusiast | Problem Solver**  
 🌱 *Passionate about creating innovative solutions, breaking complex challenges, and continuous learning.*
 
