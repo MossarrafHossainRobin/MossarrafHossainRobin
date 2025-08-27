@@ -221,16 +221,17 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
 </tr>
 
 <tr>
-  <td><b> NetOptima</b></td>
+  <td><b>NetOptima</b></td>
   <td>
-    <span title="A Computer Networking Project">Networking IP analyzer</span>
+    <span title="A Browser-Based Network Diagnostic Dashboard">Networking & IP Analyzer</span>
   </td>
   <td style="padding: 8px; border-bottom: 1px solid #ddd;">  
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-      <img src="https://img.shields.io/badge/Swing-6db33f?style=flat-square&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS-264de4?style=flat-square&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+    <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white" alt="Chart.js" />
+    <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" alt="D3.js" />
   </td>
   <td>
     <a href="https://github.com/MossarrafHossainRobin/NetOptima" target="_blank">
@@ -243,6 +244,7 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
     </a>
   </td>
 </tr>
+
 
 
   </tbody>
