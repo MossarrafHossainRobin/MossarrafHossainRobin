@@ -244,6 +244,30 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
     </a>
   </td>
 </tr>
+<tr>
+  <td><b>NetOptima Prototype</b></td>
+  <td>
+    <span title="A Browser-Based Network Performance & Diagnostic Dashboard">Networking & IP Analyzer-2.0.1</span>
+  </td>
+  <td style="padding: 8px; border-bottom: 1px solid #ddd;">  
+    <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+    <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white" alt="Chart.js" />
+    <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" alt="D3.js" />
+  </td>
+  <td>
+    <a href="https://github.com/MossarrafHossainRobin/NetOptima" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://netoptima.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Site-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
+    </a>
+  </td>
+</tr>
 
 
 
