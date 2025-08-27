@@ -239,7 +239,7 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
     </a>
   </td>
   <td>
-    <a href="https://mossarrafhossainrobin.github.io/NetOptima" target="_blank">
+    <a href="https://netoptima.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/Visit_Site-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Site"/>
     </a>
   </td>
