@@ -233,7 +233,7 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
     <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
   </td>
   <td>
-    <a href="https://github.com/MossarrafHossainRobin/Bit-To-Bit-Array-Multiplier" target="_blank">
+    <a href="https://github.com/MossarrafHossainRobin/NetOptima" target="_blank">
       <img src="https://img.shields.io/badge/Visit_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit Repo"/>
     </a>
   </td>
