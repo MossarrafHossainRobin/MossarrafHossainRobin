@@ -268,6 +268,30 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
     </a>
   </td>
 </tr>
+<tr>
+  <td><b>AgroCulture</b></td>
+  <td>
+    <span title="A PHP–MySQL Based Agricultural Marketplace for Farmers and Buyers">Smart Agricultural Marketplace</span>
+  </td>
+  <td style="padding: 8px; border-bottom: 1px solid #ddd;">  
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  </td>
+  <td>
+    <a href="https://github.com/MossarrafHossainRobin/AgroCulture-Management-System" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://agrocultureproject.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Site-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
+    </a>
+  </td>
+</tr>
 
 
 
