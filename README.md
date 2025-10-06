@@ -1,5 +1,5 @@
 <div align="center">
- <img src="git-profile-banner.jfif" alt="GitHub Header" width="150%" height="200px" />
+ <img src="git-profile-banner.jfif" alt="GitHub Header" width="150%" height="200px"   "/>
 
 
 
