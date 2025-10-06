@@ -1,22 +1,31 @@
 <!-- save as quote-anim.svg -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120" role="img" aria-label='I break things, learn from them, and rebuild them better.'>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 120" width="950" height="120" role="img" aria-label='I break things, learn from them, and rebuild them better.'>
   <defs>
     <!-- mask that grows from left -> right to reveal text -->
     <mask id="revealMask">
       <rect x="0" y="0" width="0" height="120" fill="white">
-        <animate attributeName="width" from="0" to="900" dur="4s" fill="freeze" repeatCount="indefinite"/>
+        <animate attributeName="width" from="0" to="950" dur="6s" fill="freeze" repeatCount="indefinite"/>
       </rect>
     </mask>
   </defs>
 
-  <!-- background (transparent) -->
+  <!-- Background (transparent) -->
 
-  <!-- the quote text -->
-  <text x="12" y="72" font-size="28" font-family="Georgia, 'Times New Roman', serif" font-style="italic" fill="#222" mask="url(#revealMask)">
-    "I break things, learn from them, and rebuild them better."
+  <!-- Multicolored quote text -->
+  <text x="12" y="72" font-size="28" font-family="Georgia, 'Times New Roman', serif" font-style="italic" mask="url(#revealMask)">
+    <tspan fill="#e74c3c">"I</tspan>
+    <tspan fill="#f39c12"> break</tspan>
+    <tspan fill="#27ae60"> things,</tspan>
+    <tspan fill="#2980b9"> learn</tspan>
+    <tspan fill="#8e44ad"> from</tspan>
+    <tspan fill="#16a085"> them,</tspan>
+    <tspan fill="#d35400"> and</tspan>
+    <tspan fill="#c0392b"> rebuild</tspan>
+    <tspan fill="#2c3e50"> them</tspan>
+    <tspan fill="#9b59b6"> better."</tspan>
   </text>
 
-  <!-- blinking cursor near left start (simple visual) -->
+  <!-- Blinking cursor -->
   <rect x="10" y="42" width="4" height="32" fill="#222">
     <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
   </rect>
