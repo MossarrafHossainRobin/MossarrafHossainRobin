@@ -1,0 +1,54 @@
+<!-- save as about-anim.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 200" width="1100" height="200" role="img">
+  <style>
+    text {
+      font-family: "Poppins", Arial, sans-serif;
+      text-anchor: middle;
+    }
+    .line1 { font-size: 26px; font-weight: 600; }
+    .line2 { font-size: 24px; font-weight: 500; }
+    .line3 { font-size: 22px; font-style: italic; }
+  </style>
+
+  <defs>
+    <!-- Rainbow gradient for color animation -->
+    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e74c3c">
+        <animate attributeName="stop-color" values="#e74c3c;#f39c12;#f1c40f;#2ecc71;#3498db;#9b59b6;#e74c3c" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#3498db">
+        <animate attributeName="stop-color" values="#3498db;#9b59b6;#e74c3c;#f39c12;#f1c40f;#2ecc71;#3498db" dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Fade-in animation mask -->
+    <mask id="fadeIn">
+      <rect x="0" y="0" width="1100" height="200" fill="white">
+        <animate attributeName="opacity" values="0;1" dur="3s" begin="1s" fill="freeze" />
+      </rect>
+    </mask>
+  </defs>
+
+  <!-- Line 1 -->
+  <text x="550" y="60" class="line1" fill="url(#rainbow)" mask="url(#fadeIn)">
+    🎓 Computer Science and Engineering Student
+  </text>
+
+  <!-- University Name (separate color pulse) -->
+  <text x="550" y="90" class="line1" fill="#2ecc71" opacity="0.9">
+    at <tspan fill="#e67e22">Green University of Bangladesh, Dhaka</tspan>
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Line 2 -->
+  <text x="550" y="135" class="line2" fill="url(#rainbow)">
+    💻 Frontend Developer | Cybersecurity Enthusiast | Problem Solver
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="1.5s" repeatCount="indefinite" />
+  </text>
+
+  <!-- Line 3 -->
+  <text x="550" y="175" class="line3" fill="#34495e">
+    🌱 Passionate about creating innovative solutions, breaking complex challenges, and continuous learning.
+    <animate attributeName="fill" values="#34495e;#1abc9c;#9b59b6;#34495e" dur="5s" repeatCount="indefinite" />
+  </text>
+</svg>
