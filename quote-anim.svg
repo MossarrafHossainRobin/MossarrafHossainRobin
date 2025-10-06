@@ -1,22 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120" role="img" aria-label='I break things, learn from them, and rebuild them better.'>
-  <defs>
-    <!-- mask that grows from left -> right to reveal text -->
-    <mask id="revealMask">
-      <rect x="0" y="0" width="0" height="120" fill="white">
-        <animate attributeName="width" from="0" to="900" dur="4s" fill="freeze" repeatCount="indefinite"/>
-      </rect>
-    </mask>
-  </defs>
+<!-- animated-intro.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="900" height="160" role="img">
+  <style>
+    text {
+      font-family: "Poppins", Arial, sans-serif;
+      font-size: 28px;
+      fill: #222;
+      text-anchor: middle;
+    }
+    .quote {
+      font-style: italic;
+      fill: #333;
+    }
+    .highlight {
+      font-weight: 600;
+      fill: #007acc;
+    }
+  </style>
 
-  <!-- background (transparent) -->
-
-  <!-- the quote text -->
-  <text x="12" y="72" font-size="28" font-family="Georgia, 'Times New Roman', serif" font-style="italic" fill="#222" mask="url(#revealMask)">
+  <!-- Quote -->
+  <text x="450" y="60" class="quote">
     "I break things, learn from them, and rebuild them better."
   </text>
 
-  <!-- blinking cursor near left start (simple visual) -->
-  <rect x="10" y="42" width="4" height="32" fill="#222">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-  </rect>
+  <!-- Rotating titles -->
+  <text x="450" y="120" class="highlight">
+    <tspan id="text1">Frontend Developer</tspan>
+    <animate attributeName="opacity" values="1;0" dur="4s" begin="20s; text4.end+4s" fill="freeze" id="text1anim"/>
+  </text>
+
+  <text x="450" y="120" class="highlight" opacity="0">
+    <tspan id="text2">CyberSecurity Afinado</tspan>
+    <set attributeName="opacity" to="1" begin="text1anim.end+1s" dur="4s" fill="freeze" id="text2anim"/>
+    <animate attributeName="opacity" values="1;0" begin="text2anim.end" dur="4s" fill="freeze"/>
+  </text>
+
+  <text x="450" y="120" class="highlight" opacity="0">
+    <tspan id="text3">CSE Undergraduate Student</tspan>
+    <set attributeName="opacity" to="1" begin="text2anim.end+1s" dur="4s" fill="freeze" id="text3anim"/>
+    <animate attributeName="opacity" values="1;0" begin="text3anim.end" dur="4s" fill="freeze"/>
+  </text>
+
+  <text x="450" y="120" class="highlight" opacity="0">
+    <tspan id="text4">Lifelong Learner</tspan>
+    <set attributeName="opacity" to="1" begin="text3anim.end+1s" dur="4s" fill="freeze" id="text4anim"/>
+    <animate attributeName="opacity" values="1;0" begin="text4anim.end" dur="4s" fill="freeze"/>
+  </text>
 </svg>
