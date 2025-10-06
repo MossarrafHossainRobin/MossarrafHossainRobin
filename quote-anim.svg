@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120" role="img" aria-label='I break things, learn from them, and rebuild them better.'>
+  <defs>
+    <!-- mask that grows from left -> right to reveal text -->
+    <mask id="revealMask">
+      <rect x="0" y="0" width="0" height="120" fill="white">
+        <animate attributeName="width" from="0" to="900" dur="4s" fill="freeze" repeatCount="indefinite"/>
+      </rect>
+    </mask>
+  </defs>
+
+  <!-- background (transparent) -->
+
+  <!-- the quote text -->
+  <text x="12" y="72" font-size="28" font-family="Georgia, 'Times New Roman', serif" font-style="italic" fill="#222" mask="url(#revealMask)">
+    "I break things, learn from them, and rebuild them better."
+  </text>
+
+  <!-- blinking cursor near left start (simple visual) -->
+  <rect x="10" y="42" width="4" height="32" fill="#222">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
