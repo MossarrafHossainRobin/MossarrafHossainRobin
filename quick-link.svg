@@ -1,92 +1,50 @@
-<!-- save as repo-buttons-professional.svg -->
+<!-- save as repo-anim.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="1200" height="140" role="img" aria-label="Mossarraf Hossain Robin Repositories">
+  <defs>
+    <!-- Mask that reveals text -->
+    <mask id="revealMask">
+      <rect x="0" y="0" width="0" height="140" fill="white">
+        <animate attributeName="width" from="0" to="1200" dur="12s" fill="freeze" repeatCount="indefinite"/>
+      </rect>
+    </mask>
 
-<svg xmlns="http://www.w3.org/2000/svg"
-viewBox="0 0 1300 350"
-width="1300"
-height="350"
-role="img"
-aria-label="Mossarraf Hossain Robin Repositories">
- 
-  <!-- GitHub Dark Mode Background: #161B22 -->
-  <rect width="1300" height="350" rx="12" ry="12" fill="#161B22"/>
+    <!-- Rainbow gradient for cursor -->
+    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e74c3c">
+        <animate attributeName="stop-color" values="#e74c3c;#f39c12;#f1c40f;#2ecc71;#3498db;#9b59b6;#e74c3c" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#3498db">
+        <animate attributeName="stop-color" values="#3498db;#9b59b6;#e74c3c;#f39c12;#f1c40f;#2ecc71;#3498db" dur="7s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
 
-  <defs>
-    <!-- Subtler Shadow filter -->
-    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
-      <feDropShadow dx="0" dy="1" stdDeviation="1" flood-color="#000000" flood-opacity="0.3"/>
-    </filter>
-  </defs>
+  <!-- Animated repository names -->
+  <text x="12" y="90" font-size="20" font-family="Verdana, sans-serif" mask="url(#revealMask)">
+    <tspan fill="#3776AB">python-for-beginner</tspan>
+    <tspan fill="#FF5733"> | prottoy-foundation</tspan>
+    <tspan fill="#6f42c1"> | portfolio</tspan>
+    <tspan fill="#20c997"> | NetOptima-Proto_type</tspan>
+    <tspan fill="#fd7e14"> | Bit-by-Bit-Line-Coding-Visualizer</tspan>
+    <tspan fill="#0dcaf0"> | NetOptima</tspan>
+    <tspan fill="#dc3545"> | Educational-Resources</tspan>
+    <tspan fill="#6610f2"> | frontend-react-setup-student-kit</tspan>
+    <tspan fill="#198754"> | Inventory-Management-System-Java-Swing-UI</tspan>
+    <tspan fill="#fd7e14"> | elitefootwear</tspan>
+    <tspan fill="#3776AB"> | onebite</tspan>
+    <tspan fill="#FF5733"> | prottoy-foundation</tspan>
+    <tspan fill="#6f42c1"> | Bit-To-Bit-Array-Multiplier</tspan>
+    <tspan fill="#20c997"> | Byte-By-Byte-Networking</tspan>
+    <tspan fill="#fd7e14"> | MiniDOS</tspan>
+    <tspan fill="#0dcaf0"> | BiteOnline</tspan>
+    <tspan fill="#6610f2"> | mongodb-documentation</tspan>
+    <tspan fill="#dc3545"> | my-archive</tspan>
+    <tspan fill="#198754"> | AgroCulture-Management-System</tspan>
+    <tspan fill="#fd7e14"> | Full-Stack-Web-Development-</tspan>
+  </text>
 
-  <g filter="url(#shadow)">
-    <!-- Common styles for a professional, dark-mode button -->
-    <!-- Button Fill: #21262D (Slightly lighter dark gray) -->
-    <!-- Button Border: #30363D (Subtle border for definition) -->
-    <!-- Text Color: #C9D1D9 (Standard light gray text) -->
-   
-    <!-- Centered X positions for 6 columns (60, 260, 460, 660, 860, 1060) -->
-   
-    <!-- Row 1 (Y=30) -->
-    <rect x="60" y="30" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
-    <text x="150" y="65" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">python-for-beginner</text>
-
-    <rect x="260" y="30" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
-    <text x="350" y="65" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">prottoy-foundation</text>
-
-    <rect x="460" y="30" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
-    <text x="550" y="65" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">portfolio</text>
-
-    <rect x="660" y="30" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
-    <text x="750" y="65" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">NetOptima-Proto_type</text>
-
-    <rect x="860" y="30" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
-    <text x="950" y="65" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">Bit-by-Bit-Line-Coding-Visualizer</text>
-
-    <rect x="1060" y="30" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
-    <text x="1150" y="65" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">NetOptima</text>
-
-    <!-- Row 2 (Y=100) -->
-    <rect x="60" y="100" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
-    <text x="150" y="135" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">Educational-Resources</text>
-
-    <rect x="260" y="100" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
-    <text x="350" y="135" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">frontend-react-setup-student-kit</text>
-
-    <rect x="460" y="100" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
-    <text x="550" y="135" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">Inventory-Management-System-Java-Swing-UI</text>
-
-    <rect x="660" y="100" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
-    <text x="750" y="135" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">elitefootwear</text>
-
-    <rect x="860" y="100" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
-    <text x="950" y="135" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">onebite</text>
-
-    <rect x="1060" y="100" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
-    <text x="1150" y="135" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">prottoy-foundation</text>
-
-    <!-- Row 3 (Y=170) -->
-    <rect x="60" y="170" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
-    <text x="150" y="205" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">Bit-To-Bit-Array-Multiplier</text>
-
-    <rect x="260" y="170" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
-    <text x="350" y="205" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">Byte-By-Byte-Networking</text>
-
-    <rect x="460" y="170" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
-    <text x="550" y="205" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">MiniDOS</text>
-
-    <rect x="660" y="170" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
-    <text x="750" y="205" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">BiteOnline</text>
-
-    <rect x="860" y="170" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
-    <text x="950" y="205" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">mongodb-documentation</text>
-
-    <rect x="1060" y="170" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
-    <text x="1150" y="205" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">my-archive</text>
-
-    <!-- Row 4 (Y=240) -->
-    <rect x="60" y="240" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
-    <text x="150" y="275" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">AgroCulture-Management-System</text>
-
-    <rect x="260" y="240" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
-    <text x="350" y="275" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">Full-Stack-Web-Development</text>
-  </g>
+  <!-- Rainbow blinking cursor -->
+  <rect x="10" y="60" width="4" height="32" fill="url(#rainbow)">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
 </svg>
