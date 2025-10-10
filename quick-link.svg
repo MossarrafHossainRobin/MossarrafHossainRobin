@@ -1,78 +1,92 @@
-<!-- save as repo-buttons.svg -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1300 320" width="1300" height="320" role="img" aria-label="Mossarraf Hossain Robin Repositories">
-  <!-- Gray background -->
-  <rect width="1300" height="320" rx="20" ry="20" fill="#2f2f2f"/>
+<!-- save as repo-buttons-professional.svg -->
 
-  <defs>
-    <!-- Shadow filter for buttons -->
-    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
-      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="black" flood-opacity="0.5"/>
-    </filter>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg"
+viewBox="0 0 1300 350"
+width="1300"
+height="350"
+role="img"
+aria-label="Mossarraf Hossain Robin Repositories">
+ 
+  <!-- GitHub Dark Mode Background: #161B22 -->
+  <rect width="1300" height="350" rx="12" ry="12" fill="#161B22"/>
 
-  <g filter="url(#shadow)">
-    <!-- Row 1 -->
-    <rect x="20" y="30" width="180" height="50" rx="15" fill="#3776AB"/>
-    <text x="110" y="60" font-family="Verdana" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle" alignment-baseline="middle">python-for-beginner</text>
+  <defs>
+    <!-- Subtler Shadow filter -->
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="1" stdDeviation="1" flood-color="#000000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
 
-    <rect x="220" y="30" width="180" height="50" rx="15" fill="#FF5733"/>
-    <text x="310" y="60" font-family="Verdana" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle" alignment-baseline="middle">prottoy-foundation</text>
+  <g filter="url(#shadow)">
+    <!-- Common styles for a professional, dark-mode button -->
+    <!-- Button Fill: #21262D (Slightly lighter dark gray) -->
+    <!-- Button Border: #30363D (Subtle border for definition) -->
+    <!-- Text Color: #C9D1D9 (Standard light gray text) -->
+   
+    <!-- Centered X positions for 6 columns (60, 260, 460, 660, 860, 1060) -->
+   
+    <!-- Row 1 (Y=30) -->
+    <rect x="60" y="30" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
+    <text x="150" y="65" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">python-for-beginner</text>
 
-    <rect x="420" y="30" width="180" height="50" rx="15" fill="#6f42c1"/>
-    <text x="510" y="60" font-family="Verdana" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle" alignment-baseline="middle">portfolio</text>
+    <rect x="260" y="30" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
+    <text x="350" y="65" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">prottoy-foundation</text>
 
-    <rect x="620" y="30" width="180" height="50" rx="15" fill="#20c997"/>
-    <text x="710" y="60" font-family="Verdana" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle" alignment-baseline="middle">NetOptima-Proto_type</text>
+    <rect x="460" y="30" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
+    <text x="550" y="65" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">portfolio</text>
 
-    <rect x="820" y="30" width="180" height="50" rx="15" fill="#fd7e14"/>
-    <text x="910" y="60" font-family="Verdana" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle" alignment-baseline="middle">Bit-by-Bit-Line-Coding-Visualizer</text>
+    <rect x="660" y="30" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
+    <text x="750" y="65" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">NetOptima-Proto_type</text>
 
-    <rect x="1020" y="30" width="180" height="50" rx="15" fill="#0dcaf0"/>
-    <text x="1110" y="60" font-family="Verdana" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle" alignment-baseline="middle">NetOptima</text>
+    <rect x="860" y="30" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
+    <text x="950" y="65" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">Bit-by-Bit-Line-Coding-Visualizer</text>
 
-    <!-- Row 2 -->
-    <rect x="20" y="100" width="180" height="50" rx="15" fill="#dc3545"/>
-    <text x="110" y="130" font-family="Verdana" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle" alignment-baseline="middle">Educational-Resources</text>
+    <rect x="1060" y="30" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
+    <text x="1150" y="65" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">NetOptima</text>
 
-    <rect x="220" y="100" width="180" height="50" rx="15" fill="#6610f2"/>
-    <text x="310" y="130" font-family="Verdana" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle" alignment-baseline="middle">frontend-react-setup-student-kit</text>
+    <!-- Row 2 (Y=100) -->
+    <rect x="60" y="100" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
+    <text x="150" y="135" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">Educational-Resources</text>
 
-    <rect x="420" y="100" width="180" height="50" rx="15" fill="#198754"/>
-    <text x="510" y="130" font-family="Verdana" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle" alignment-baseline="middle">Inventory-Management-System-Java-Swing-UI</text>
+    <rect x="260" y="100" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
+    <text x="350" y="135" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">frontend-react-setup-student-kit</text>
 
-    <rect x="620" y="100" width="180" height="50" rx="15" fill="#fd7e14"/>
-    <text x="710" y="130" font-family="Verdana" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle" alignment-baseline="middle">elitefootwear</text>
+    <rect x="460" y="100" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
+    <text x="550" y="135" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">Inventory-Management-System-Java-Swing-UI</text>
 
-    <rect x="820" y="100" width="180" height="50" rx="15" fill="#3776AB"/>
-    <text x="910" y="130" font-family="Verdana" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle" alignment-baseline="middle">onebite</text>
+    <rect x="660" y="100" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
+    <text x="750" y="135" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">elitefootwear</text>
 
-    <rect x="1020" y="100" width="180" height="50" rx="15" fill="#FF5733"/>
-    <text x="1110" y="130" font-family="Verdana" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle" alignment-baseline="middle">prottoy-foundation</text>
+    <rect x="860" y="100" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
+    <text x="950" y="135" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">onebite</text>
 
-    <!-- Row 3 -->
-    <rect x="20" y="170" width="180" height="50" rx="15" fill="#6f42c1"/>
-    <text x="110" y="200" font-family="Verdana" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle" alignment-baseline="middle">Bit-To-Bit-Array-Multiplier</text>
+    <rect x="1060" y="100" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
+    <text x="1150" y="135" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">prottoy-foundation</text>
 
-    <rect x="220" y="170" width="180" height="50" rx="15" fill="#20c997"/>
-    <text x="310" y="200" font-family="Verdana" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle" alignment-baseline="middle">Byte-By-Byte-Networking</text>
+    <!-- Row 3 (Y=170) -->
+    <rect x="60" y="170" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
+    <text x="150" y="205" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">Bit-To-Bit-Array-Multiplier</text>
 
-    <rect x="420" y="170" width="180" height="50" rx="15" fill="#fd7e14"/>
-    <text x="510" y="200" font-family="Verdana" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle" alignment-baseline="middle">MiniDOS</text>
+    <rect x="260" y="170" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
+    <text x="350" y="205" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">Byte-By-Byte-Networking</text>
 
-    <rect x="620" y="170" width="180" height="50" rx="15" fill="#0dcaf0"/>
-    <text x="710" y="200" font-family="Verdana" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle" alignment-baseline="middle">BiteOnline</text>
+    <rect x="460" y="170" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
+    <text x="550" y="205" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">MiniDOS</text>
 
-    <rect x="820" y="170" width="180" height="50" rx="15" fill="#6610f2"/>
-    <text x="910" y="200" font-family="Verdana" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle" alignment-baseline="middle">mongodb-documentation</text>
+    <rect x="660" y="170" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
+    <text x="750" y="205" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">BiteOnline</text>
 
-    <rect x="1020" y="170" width="180" height="50" rx="15" fill="#dc3545"/>
-    <text x="1110" y="200" font-family="Verdana" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle" alignment-baseline="middle">my-archive</text>
+    <rect x="860" y="170" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
+    <text x="950" y="205" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">mongodb-documentation</text>
 
-    <!-- Row 4 -->
-    <rect x="20" y="240" width="180" height="50" rx="15" fill="#198754"/>
-    <text x="110" y="270" font-family="Verdana" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle" alignment-baseline="middle">AgroCulture-Management-System</text>
+    <rect x="1060" y="170" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
+    <text x="1150" y="205" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">my-archive</text>
 
-    <rect x="220" y="240" width="180" height="50" rx="15" fill="#fd7e14"/>
-    <text x="310" y="270" font-family="Verdana" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle" alignment-baseline="middle">Full-Stack-Web-Development-</text>
-  </g>
+    <!-- Row 4 (Y=240) -->
+    <rect x="60" y="240" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
+    <text x="150" y="275" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">AgroCulture-Management-System</text>
+
+    <rect x="260" y="240" width="180" height="60" rx="8" fill="#21262D" stroke="#30363D" stroke-width="2"/>
+    <text x="350" y="275" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="500" fill="#C9D1D9" text-anchor="middle" alignment-baseline="middle">Full-Stack-Web-Development</text>
+  </g>
 </svg>
