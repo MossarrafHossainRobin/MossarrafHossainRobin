@@ -1,65 +1,73 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" width="1200" height="100" role="img" aria-label="Mossarraf Hossain Robin Repositories">
   <defs>
-    <!-- Background gradient matching radical theme -->
+    <!-- Gray-based gradient background -->
     <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#141321">
-        <animate attributeName="stop-color" values="#141321;#1a1728;#141321" dur="8s" repeatCount="indefinite"/>
+      <stop offset="0%" stop-color="#2d2d2d">
+        <animate attributeName="stop-color" values="#2d2d2d;#4a4a4a;#3a3a3a;#2d2d2d" dur="8s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" stop-color="#1a1728">
-        <animate attributeName="stop-color" values="#1a1728;#141321;#1a1728" dur="8s" repeatCount="indefinite"/>
+      <stop offset="100%" stop-color="#3a3a3a">
+        <animate attributeName="stop-color" values="#3a3a3a;#2d2d2d;#4a4a4a;#3a3a3a" dur="8s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
 
-    <!-- Text gradient using radical theme colors -->
+    <!-- Vibrant text gradient -->
     <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#fe428e">
-        <animate attributeName="stop-color" values="#fe428e;#f8d847;#a9fef7;#fe428e" dur="6s" repeatCount="indefinite"/>
+      <stop offset="0%" stop-color="#ff4d4f">
+        <animate attributeName="stop-color" values="#ff4d4f;#ffab40;#40c4ff;#ff4d4f" dur="6s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="50%" stop-color="#f8d847">
-        <animate attributeName="stop-color" values="#f8d847;#a9fef7;#fe428e;#f8d847" dur="6s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#a9fef7">
-        <animate attributeName="stop-color" values="#a9fef7;#fe428e;#f8d847;#a9fef7" dur="6s" repeatCount="indefinite"/>
+      <stop offset="100%" stop-color="#40c4ff">
+        <animate attributeName="stop-color" values="#40c4ff;#ff4d4f;#ffab40;#40c4ff" dur="6s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
 
-    <!-- Mask for typing reveal effect -->
-    <mask id="revealMask">
-      <rect x="0" y="0" width="0" height="100" fill="white">
+    <!-- Clip path for smooth reveal -->
+    <clipPath id="revealClip">
+      <rect x="0" y="0" width="0" height="100">
         <animate attributeName="width" from="0" to="1200" dur="12s" fill="freeze" repeatCount="indefinite"/>
       </rect>
-    </mask>
+    </clipPath>
   </defs>
 
-  <!-- Background rectangle -->
+  <!-- Slim background rectangle -->
   <rect x="0" y="0" width="1200" height="100" fill="url(#bgGradient)"/>
 
-  <!-- Repository names with typing effect -->
-  <text x="20" y="70" font-size="65" font-family="'Inter', sans-serif" font-weight="600" letter-spacing="1" fill="url(#textGradient)" mask="url(#revealMask)">
-    python-for-beginner
-    prottoy-foundation
-    portfolio
-    NetOptima-Proto_type
-    Bit-by-Bit-Line-Coding-Visualizer
-    NetOptima
-    Educational-Resources
-    frontend-react-setup-student-kit
-    Inventory-Management-System-Java-Swing-UI
-    elitefootwear
-    onebite
-    prottoy-foundation
-    Bit-To-Bit-Array-Multiplier
-    Byte-By-Byte-Networking
-    MiniDOS
-    BiteOnline
-    mongodb-documentation
-    my-archive
-    AgroCulture-Management-System
-    Full-Stack-Web-Development
-  </text>
+  <!-- Animated repository names without bars -->
+  <g clip-path="url(#revealClip)">
+    <text x="1200" y="70" font-size="65" font-family="'Inter', sans-serif" font-weight="600" letter-spacing="1" fill="url(#textGradient)">
+      <tspan>python-for-beginner</tspan>
+      <tspan dx="40">prottoy-foundation</tspan>
+      <tspan dx="40">portfolio</tspan>
+      <tspan dx="40">NetOptima-Proto_type</tspan>
+      <tspan dx="40">Bit-by-Bit-Line-Coding-Visualizer</tspan>
+      <tspan dx="40">NetOptima</tspan>
+      <tspan dx="40">Educational-Resources</tspan>
+      <tspan dx="40">frontend-react-setup-student-kit</tspan>
+      <tspan dx="40">Inventory-Management-System-Java-Swing-UI</tspan>
+      <tspan dx="40">elitefootwear</tspan>
+      <tspan dx="40">onebite</tspan>
+      <tspan dx="40">prottoy-foundation</tspan>
+      <tspan dx="40">Bit-To-Bit-Array-Multiplier</tspan>
+      <tspan dx="40">Byte-By-Byte-Networking</tspan>
+      <tspan dx="40">MiniDOS</tspan>
+      <tspan dx="40">BiteOnline</tspan>
+      <tspan dx="40">mongodb-documentation</tspan>
+      <tspan dx="40">my-archive</tspan>
+      <tspan dx="40">AgroCulture-Management-System</tspan>
+      <tspan dx="40">Full-Stack-Web-Development</tspan>
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        from="0 0"
+        to="-4800 0"
+        dur="25s"
+        repeatCount="indefinite"
+      />
+    </text>
+  </g>
 
-  <!-- Blinking cursor with theme color -->
-  <rect x="10" y="35" width="4" height="40" fill="#fe428e">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  <!-- Glowing cursor -->
+  <rect x="10" y="35" width="4" height="40" fill="url(#textGradient)">
+    <animate attributeName="opacity" values="1;0.4;1" dur="0.7s" repeatCount="indefinite"/>
+    <animate attributeName="height" values="40;48;40" dur="0.7s" repeatCount="indefinite"/>
   </rect>
 </svg>
