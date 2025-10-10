@@ -20,7 +20,7 @@
   </defs>
 
   <!-- Animated repository names -->
-  <text x="12" y="90" font-size="80" font-family="Verdana, sans-serif" font-weight="bold" mask="url(#revealMask)">
+  <text x="12" y="90" font-size="50" font-family="Verdana, sans-serif" font-weight="bold" mask="url(#revealMask)">
     <tspan fill="#3776AB">python-for-beginner</tspan>
     <tspan fill="#FF5733"> | prottoy-foundation</tspan>
     <tspan fill="#6f42c1"> | portfolio</tspan>
