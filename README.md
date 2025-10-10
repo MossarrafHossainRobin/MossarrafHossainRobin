@@ -368,8 +368,8 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
 
 #### Check out more projects on my [GitHub](https://github.com/mossarrafhossainrobin?tab=repositories)!
 ---
-#### Quick Access to Repositories
- <img src="quick-link.svg" alt="Quick Access to Repositories" />
+#### My Repositories
+ <img src="quick-link.svg" alt="" />
 
 
 ---
