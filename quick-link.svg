@@ -20,7 +20,7 @@
   </defs>
 
   <!-- Animated repository names -->
-  <text x="12" y="90" font-size="20" font-family="Verdana, sans-serif" mask="url(#revealMask)">
+  <text x="12" y="90" font-size="80" font-family="Verdana, sans-serif" font-weight="bold" mask="url(#revealMask)">
     <tspan fill="#3776AB">python-for-beginner</tspan>
     <tspan fill="#FF5733"> | prottoy-foundation</tspan>
     <tspan fill="#6f42c1"> | portfolio</tspan>
@@ -44,7 +44,7 @@
   </text>
 
   <!-- Rainbow blinking cursor -->
-  <rect x="10" y="60" width="4" height="32" fill="url(#rainbow)">
+  <rect x="10" y="60" width="4" height="36" fill="url(#rainbow)">
     <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
   </rect>
 </svg>
