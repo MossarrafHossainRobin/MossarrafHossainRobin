@@ -1,39 +1,90 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="100">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100">
   <!-- Background -->
-  <rect width="900" height="100" rx="15" ry="15" fill="#f5f5f5" stroke="#e1e1e1" stroke-width="2"/>
+  <rect width="1200" height="100" rx="15" ry="15" fill="#f5f5f5" stroke="#e1e1e1" stroke-width="2"/>
 
-  <!-- Button 1 -->
-  <rect x="20" y="20" width="160" height="60" rx="10" ry="10" fill="#3776AB">
-    <animate attributeName="x" values="20;30;20" dur="3s" repeatCount="indefinite"/>
-    <animate attributeName="fill" values="#3776AB;#4B8BBE;#3776AB" dur="3s" repeatCount="indefinite"/>
-  </rect>
-  <text x="100" y="55" font-family="Verdana" font-size="14" fill="white" text-anchor="middle" alignment-baseline="middle">python-for-beginner</text>
+  <!-- Group for scrolling animation -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0,0" to="-1200,0" dur="30s" repeatCount="indefinite"/>
 
-  <!-- Button 2 -->
-  <rect x="200" y="20" width="160" height="60" rx="10" ry="10" fill="#FF5733">
-    <animate attributeName="x" values="200;210;200" dur="3s" repeatCount="indefinite"/>
-    <animate attributeName="fill" values="#FF5733;#FF7F50;#FF5733" dur="3s" repeatCount="indefinite"/>
-  </rect>
-  <text x="280" y="55" font-family="Verdana" font-size="14" fill="white" text-anchor="middle" alignment-baseline="middle">prottoy-foundation</text>
+    <!-- Button 1 -->
+    <rect x="20" y="20" width="150" height="60" rx="10" ry="10" fill="#3776AB"/>
+    <text x="95" y="55" font-family="Verdana" font-size="12" fill="white" text-anchor="middle" alignment-baseline="middle">python-for-beginner</text>
 
-  <!-- Button 3 -->
-  <rect x="380" y="20" width="160" height="60" rx="10" ry="10" fill="#6f42c1">
-    <animate attributeName="x" values="380;390;380" dur="3s" repeatCount="indefinite"/>
-    <animate attributeName="fill" values="#6f42c1;#8a63d9;#6f42c1" dur="3s" repeatCount="indefinite"/>
-  </rect>
-  <text x="460" y="55" font-family="Verdana" font-size="14" fill="white" text-anchor="middle" alignment-baseline="middle">portfolio</text>
+    <!-- Button 2 -->
+    <rect x="190" y="20" width="150" height="60" rx="10" ry="10" fill="#FF5733"/>
+    <text x="265" y="55" font-family="Verdana" font-size="12" fill="white" text-anchor="middle" alignment-baseline="middle">my-archive</text>
 
-  <!-- Button 4 -->
-  <rect x="560" y="20" width="160" height="60" rx="10" ry="10" fill="#20c997">
-    <animate attributeName="x" values="560;570;560" dur="3s" repeatCount="indefinite"/>
-    <animate attributeName="fill" values="#20c997;#38d9a9;#20c997" dur="3s" repeatCount="indefinite"/>
-  </rect>
-  <text x="640" y="55" font-family="Verdana" font-size="14" fill="white" text-anchor="middle" alignment-baseline="middle">NetOptima</text>
+    <!-- Button 3 -->
+    <rect x="360" y="20" width="150" height="60" rx="10" ry="10" fill="#6f42c1"/>
+    <text x="435" y="55" font-family="Verdana" font-size="12" fill="white" text-anchor="middle" alignment-baseline="middle">AgroCulture-Management-System</text>
 
-  <!-- Button 5 -->
-  <rect x="740" y="20" width="160" height="60" rx="10" ry="10" fill="#fd7e14">
-    <animate attributeName="x" values="740;750;740" dur="3s" repeatCount="indefinite"/>
-    <animate attributeName="fill" values="#fd7e14;#ffa94d;#fd7e14" dur="3s" repeatCount="indefinite"/>
-  </rect>
-  <text x="820" y="55" font-family="Verdana" font-size="14" fill="white" text-anchor="middle" alignment-baseline="middle">AgroCulture-Management-System</text>
+    <!-- Button 4 -->
+    <rect x="530" y="20" width="150" height="60" rx="10" ry="10" fill="#20c997"/>
+    <text x="605" y="55" font-family="Verdana" font-size="12" fill="white" text-anchor="middle" alignment-baseline="middle">Full-Stack-Web-Development-</text>
+
+    <!-- Button 5 -->
+    <rect x="700" y="20" width="150" height="60" rx="10" ry="10" fill="#fd7e14"/>
+    <text x="775" y="55" font-family="Verdana" font-size="12" fill="white" text-anchor="middle" alignment-baseline="middle">portfolio</text>
+
+    <!-- Button 6 -->
+    <rect x="870" y="20" width="150" height="60" rx="10" ry="10" fill="#0dcaf0"/>
+    <text x="945" y="55" font-family="Verdana" font-size="12" fill="white" text-anchor="middle" alignment-baseline="middle">NetOptima-Proto_type</text>
+
+    <!-- Button 7 -->
+    <rect x="1040" y="20" width="150" height="60" rx="10" ry="10" fill="#dc3545"/>
+    <text x="1115" y="55" font-family="Verdana" font-size="12" fill="white" text-anchor="middle" alignment-baseline="middle">Bit-by-Bit-Line-Coding-Visualizer</text>
+
+    <!-- Button 8 -->
+    <rect x="1210" y="20" width="150" height="60" rx="10" ry="10" fill="#6610f2"/>
+    <text x="1285" y="55" font-family="Verdana" font-size="12" fill="white" text-anchor="middle" alignment-baseline="middle">NetOptima</text>
+
+    <!-- Button 9 -->
+    <rect x="1380" y="20" width="150" height="60" rx="10" ry="10" fill="#198754"/>
+    <text x="1455" y="55" font-family="Verdana" font-size="12" fill="white" text-anchor="middle" alignment-baseline="middle">Educational-Resources</text>
+
+    <!-- Button 10 -->
+    <rect x="1550" y="20" width="150" height="60" rx="10" ry="10" fill="#fd7e14"/>
+    <text x="1625" y="55" font-family="Verdana" font-size="12" fill="white" text-anchor="middle" alignment-baseline="middle">frontend-react-setup-student-kit</text>
+
+    <!-- Button 11 -->
+    <rect x="1720" y="20" width="150" height="60" rx="10" ry="10" fill="#0dcaf0"/>
+    <text x="1795" y="55" font-family="Verdana" font-size="12" fill="white" text-anchor="middle" alignment-baseline="middle">Inventory-Management-System-Java-Swing-UI</text>
+
+    <!-- Button 12 -->
+    <rect x="1890" y="20" width="150" height="60" rx="10" ry="10" fill="#6f42c1"/>
+    <text x="1965" y="55" font-family="Verdana" font-size="12" fill="white" text-anchor="middle" alignment-baseline="middle">elitefootwear</text>
+
+    <!-- Button 13 -->
+    <rect x="2060" y="20" width="150" height="60" rx="10" ry="10" fill="#FF5733"/>
+    <text x="2135" y="55" font-family="Verdana" font-size="12" fill="white" text-anchor="middle" alignment-baseline="middle">onebite</text>
+
+    <!-- Button 14 -->
+    <rect x="2230" y="20" width="150" height="60" rx="10" ry="10" fill="#3776AB"/>
+    <text x="2305" y="55" font-family="Verdana" font-size="12" fill="white" text-anchor="middle" alignment-baseline="middle">prottoy-foundation</text>
+
+    <!-- Button 15 -->
+    <rect x="2400" y="20" width="150" height="60" rx="10" ry="10" fill="#20c997"/>
+    <text x="2475" y="55" font-family="Verdana" font-size="12" fill="white" text-anchor="middle" alignment-baseline="middle">Bit-To-Bit-Array-Multiplier</text>
+
+    <!-- Button 16 -->
+    <rect x="2570" y="20" width="150" height="60" rx="10" ry="10" fill="#fd7e14"/>
+    <text x="2645" y="55" font-family="Verdana" font-size="12" fill="white" text-anchor="middle" alignment-baseline="middle">Byte-By-Byte-Networking</text>
+
+    <!-- Button 17 -->
+    <rect x="2740" y="20" width="150" height="60" rx="10" ry="10" fill="#6610f2"/>
+    <text x="2815" y="55" font-family="Verdana" font-size="12" fill="white" text-anchor="middle" alignment-baseline="middle">MiniDOS</text>
+
+    <!-- Button 18 -->
+    <rect x="2910" y="20" width="150" height="60" rx="10" ry="10" fill="#dc3545"/>
+    <text x="2985" y="55" font-family="Verdana" font-size="12" fill="white" text-anchor="middle" alignment-baseline="middle">BiteOnline</text>
+
+    <!-- Button 19 -->
+    <rect x="3080" y="20" width="150" height="60" rx="10" ry="10" fill="#0dcaf0"/>
+    <text x="3155" y="55" font-family="Verdana" font-size="12" fill="white" text-anchor="middle" alignment-baseline="middle">mongodb-documentation</text>
+
+    <!-- Button 20 -->
+    <rect x="3250" y="20" width="150" height="60" rx="10" ry="10" fill="#6f42c1"/>
+    <text x="3325" y="55" font-family="Verdana" font-size="12" fill="white" text-anchor="middle" alignment-baseline="middle">Extra-Repo-Name</text>
+
+  </g>
 </svg>
