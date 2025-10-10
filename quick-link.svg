@@ -1,50 +1,73 @@
-<!-- save as repo-anim.svg -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="1200" height="140" role="img" aria-label="Mossarraf Hossain Robin Repositories">
   <defs>
-    <!-- Mask that reveals text -->
-    <mask id="revealMask">
-      <rect x="0" y="0" width="0" height="140" fill="white">
-        <animate attributeName="width" from="0" to="1200" dur="12s" fill="freeze" repeatCount="indefinite"/>
-      </rect>
-    </mask>
-
-    <!-- Rainbow gradient for cursor -->
-    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#e74c3c">
-        <animate attributeName="stop-color" values="#e74c3c;#f39c12;#f1c40f;#2ecc71;#3498db;#9b59b6;#e74c3c" dur="7s" repeatCount="indefinite"/>
+    <!-- Gradient background -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1a3d">
+        <animate attributeName="stop-color" values="#1a1a3d;#2c3e50;#4b0082;#1a1a3d" dur="10s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" stop-color="#3498db">
-        <animate attributeName="stop-color" values="#3498db;#9b59b6;#e74c3c;#f39c12;#f1c40f;#2ecc71;#3498db" dur="7s" repeatCount="indefinite"/>
+      <stop offset="100%" stop-color="#4b0082">
+        <animate attributeName="stop-color" values="#4b0082;#1a1a3d;#2c3e50;#4b0082" dur="10s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
+
+    <!-- Text gradient -->
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff6f61">
+        <animate attributeName="stop-color" values="#ff6f61;#ffcc5c;#6bffb8;#ff6f61" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#6bffb8">
+        <animate attributeName="stop-color" values="#6bffb8;#ff6f61;#ffcc5c;#6bffb8" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Clip path for smooth reveal -->
+    <clipPath id="revealClip">
+      <rect x="0" y="0" width="0" height="140">
+        <animate attributeName="width" from="0" to="1200" dur="15s" fill="freeze" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
   </defs>
 
-  <!-- Animated repository names -->
-  <text x="12" y="90" font-size="50" font-family="Verdana, sans-serif" font-weight="bold" mask="url(#revealMask)">
-    <tspan fill="#3776AB">python-for-beginner</tspan>
-    <tspan fill="#FF5733"> | prottoy-foundation</tspan>
-    <tspan fill="#6f42c1"> | portfolio</tspan>
-    <tspan fill="#20c997"> | NetOptima-Proto_type</tspan>
-    <tspan fill="#fd7e14"> | Bit-by-Bit-Line-Coding-Visualizer</tspan>
-    <tspan fill="#0dcaf0"> | NetOptima</tspan>
-    <tspan fill="#dc3545"> | Educational-Resources</tspan>
-    <tspan fill="#6610f2"> | frontend-react-setup-student-kit</tspan>
-    <tspan fill="#198754"> | Inventory-Management-System-Java-Swing-UI</tspan>
-    <tspan fill="#fd7e14"> | elitefootwear</tspan>
-    <tspan fill="#3776AB"> | onebite</tspan>
-    <tspan fill="#FF5733"> | prottoy-foundation</tspan>
-    <tspan fill="#6f42c1"> | Bit-To-Bit-Array-Multiplier</tspan>
-    <tspan fill="#20c997"> | Byte-By-Byte-Networking</tspan>
-    <tspan fill="#fd7e14"> | MiniDOS</tspan>
-    <tspan fill="#0dcaf0"> | BiteOnline</tspan>
-    <tspan fill="#6610f2"> | mongodb-documentation</tspan>
-    <tspan fill="#dc3545"> | my-archive</tspan>
-    <tspan fill="#198754"> | AgroCulture-Management-System</tspan>
-    <tspan fill="#fd7e14"> | Full-Stack-Web-Development-</tspan>
-  </text>
+  <!-- Background rectangle -->
+  <rect x="0" y="0" width="1200" height="140" fill="url(#bgGradient)"/>
 
-  <!-- Rainbow blinking cursor -->
-  <rect x="10" y="60" width="4" height="36" fill="url(#rainbow)">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  <!-- Animated repository names with scrolling effect -->
+  <g clip-path="url(#revealClip)">
+    <text x="1200" y="90" font-size="60" font-family="'Roboto', sans-serif" font-weight="bold" fill="url(#textGradient)">
+      <tspan>python-for-beginner</tspan>
+      <tspan dx="40">prottoy-foundation</tspan>
+      <tspan dx="40">portfolio</tspan>
+      <tspan dx="40">NetOptima-Proto_type</tspan>
+      <tspan dx="40">Bit-by-Bit-Line-Coding-Visualizer</tspan>
+      <tspan dx="40">NetOptima</tspan>
+      <tspan dx="40">Educational-Resources</tspan>
+      <tspan dx="40">frontend-react-setup-student-kit</tspan>
+      <tspan dx="40">Inventory-Management-System-Java-Swing-UI</tspan>
+      <tspan dx="40">elitefootwear</tspan>
+      <tspan dx="40">onebite</tspan>
+      <tspan dx="40">prottoy-foundation</tspan>
+      <tspan dx="40">Bit-To-Bit-Array-Multiplier</tspan>
+      <tspan dx="40">Byte-By-Byte-Networking</tspan>
+      <tspan dx="40">MiniDOS</tspan>
+      <tspan dx="40">BiteOnline</tspan>
+      <tspan dx="40">mongodb-documentation</tspan>
+      <tspan dx="40">my-archive</tspan>
+      <tspan dx="40">AgroCulture-Management-System</tspan>
+      <tspan dx="40">Full-Stack-Web-Development</tspan>
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        from="0 0"
+        to="-4800 0"
+        dur="30s"
+        repeatCount="indefinite"
+      />
+    </text>
+  </g>
+
+  <!-- Glowing cursor -->
+  <rect x="10" y="50" width="4" height="48" fill="url(#textGradient)">
+    <animate attributeName="opacity" values="1;0.3;1" dur="0.8s" repeatCount="indefinite"/>
+    <animate attributeName="height" values="48;56;48" dur="0.8s" repeatCount="indefinite"/>
   </rect>
 </svg>
