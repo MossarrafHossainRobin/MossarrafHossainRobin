@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="120">
+  <!-- Background -->
+  <rect width="800" height="120" rx="15" ry="15" fill="#f5f5f5" stroke="#e1e1e1" stroke-width="2"/>
+
+  <!-- Python for Beginners Button -->
+  <a href="https://github.com/MossarrafHossainRobin/python-for-beginner" target="_blank">
+    <rect x="20" y="30" width="180" height="60" rx="10" ry="10" fill="#3776AB">
+      <animate attributeName="fill" values="#3776AB;#4B8BBE;#3776AB" dur="2s" repeatCount="indefinite"/>
+    </rect>
+    <text x="110" y="65" font-family="Verdana" font-size="14" fill="white" text-anchor="middle" alignment-baseline="middle">Python for Beginners</text>
+  </a>
+
+  <!-- Prottoy Foundation Button -->
+  <a href="https://github.com/MossarrafHossainRobin/prottoy-foundation" target="_blank">
+    <rect x="220" y="30" width="180" height="60" rx="10" ry="10" fill="#FF5733">
+      <animate attributeName="fill" values="#FF5733;#FF7F50;#FF5733" dur="2s" repeatCount="indefinite"/>
+    </rect>
+    <text x="310" y="65" font-family="Verdana" font-size="14" fill="white" text-anchor="middle" alignment-baseline="middle">Prottoy Foundation</text>
+  </a>
+
+  <!-- Another Repo Button -->
+  <a href="https://github.com/MossarrafHossainRobin/another-repo" target="_blank">
+    <rect x="420" y="30" width="180" height="60" rx="10" ry="10" fill="#6f42c1">
+      <animate attributeName="fill" values="#6f42c1;#8a63d9;#6f42c1" dur="2s" repeatCount="indefinite"/>
+    </rect>
+    <text x="510" y="65" font-family="Verdana" font-size="14" fill="white" text-anchor="middle" alignment-baseline="middle">Another Repo</text>
+  </a>
+
+</svg>
