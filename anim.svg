@@ -1,34 +1,45 @@
-<svg width="600" height="60" viewBox="0 0 600 60" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background with subtle gradient -->
-  <rect x="0" y="0" width="600" height="60" fill="#1a1a1a" rx="8"/>
-  <rect x="5" y="5" width="590" height="50" fill="#2a2a2a" rx="6" opacity="0.9"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 40" width="500" height="40" role="img" aria-label="Frontend Developer | Cybersecurity Enthusiast | Problem Solver">
+  <defs>
+    <!-- Mask that grows from left to right to reveal text -->
+    <mask id="revealMask">
+      <rect x="0" y="0" width="0" height="40" fill="white">
+        <animate attributeName="width" from="0" to="500" dur="5s" fill="freeze" repeatCount="indefinite"/>
+      </rect>
+    </mask>
 
-  <!-- Mac-style pointer icon -->
-  <g transform="translate(20, 30)">
-    <path d="M0,0 L12,12 L6,12 L6,18 L0,12 Z" fill="#ff5555">
-      <animateTransform attributeName="transform" type="translate" values="0,0;5,0;0,0" dur="1.5s" repeatCount="indefinite"/>
-    </path>
-  </g>
+    <!-- Define rainbow gradient for cursor -->
+    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e74c3c">
+        <animate attributeName="stop-color" values="#e74c3c;#f39c12;#f1c40f;#2ecc71;#3498db;#9b59b6;#e74c3c" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#3498db">
+        <animate attributeName="stop-color" values="#3498db;#9b59b6;#e74c3c;#f39c12;#f1c40f;#2ecc71;#3498db" dur="7s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
 
-  <!-- Text group for cycling lines -->
-  <text x="50" y="40" font-family="Arial, sans-serif" font-size="14" fill="#ffffff" font-weight="bold">
-    <!-- First line -->
-    <tspan id="line1" opacity="0">
-      Computer Science and Engineering Student at Green University of Bangladesh, Dhaka
-      <animate attributeName="opacity" values="0;1;1;0" dur="6s" repeatCount="indefinite"/>
-      <animate attributeName="textLength" values="0;100%" dur="3s" repeatCount="indefinite"/>
-    </tspan>
-    <!-- Second line -->
-    <tspan id="line2" opacity="0">
+  <!-- Text group for cycling lines with different colors -->
+  <text x="12" y="28" font-size="12" font-family="Helvetica, Arial, sans-serif" font-weight="600" mask="url(#revealMask)">
+    <!-- First line: Frontend Developer -->
+    <tspan id="line1" fill="#f1c40f" opacity="0">
       💻 Frontend Developer | Cybersecurity Enthusiast | Problem Solver
-      <animate attributeName="opacity" values="0;0;1;1;0" dur="6s" repeatCount="indefinite" begin="2s"/>
-      <animate attributeName="textLength" values="0;100%" dur="3s" repeatCount="indefinite" begin="2s"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="6s" repeatCount="indefinite"/>
     </tspan>
-    <!-- Third line -->
-    <tspan id="line3" opacity="0">
+    <!-- Second line: Passionate about -->
+    <tspan id="line2" fill="#2ecc71" opacity="0">
       🌱 Passionate about creating innovative solutions, breaking complex challenges, and continuous learning.
+      <animate attributeName="opacity" values="0;0;1;1;0" dur="6s" repeatCount="indefinite" begin="2s"/>
+    </tspan>
+    <!-- Third line: Computer Science -->
+    <tspan id="line3" fill="#3498db" opacity="0">
+      Computer Science and Engineering Student at Green University of Bangladesh, Dhaka
       <animate attributeName="opacity" values="0;0;0;1;1;0" dur="6s" repeatCount="indefinite" begin="4s"/>
-      <animate attributeName="textLength" values="0;100%" dur="3s" repeatCount="indefinite" begin="4s"/>
     </tspan>
   </text>
+
+  <!-- Rainbow blinking cursor -->
+  <rect x="10" y="16" width="3" height="16" fill="url(#rainbow)">
+    <!-- Blink effect -->
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
 </svg>
