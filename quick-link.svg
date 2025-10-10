@@ -1,39 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="1200" height="140" role="img" aria-label="Mossarraf Hossain Robin Repositories">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" width="1200" height="100" role="img" aria-label="Mossarraf Hossain Robin Repositories">
   <defs>
-    <!-- Gradient background -->
+    <!-- Gray-based gradient background -->
     <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#1a1a3d">
-        <animate attributeName="stop-color" values="#1a1a3d;#2c3e50;#4b0082;#1a1a3d" dur="10s" repeatCount="indefinite"/>
+      <stop offset="0%" stop-color="#2d2d2d">
+        <animate attributeName="stop-color" values="#2d2d2d;#4a4a4a;#3a3a3a;#2d2d2d" dur="8s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" stop-color="#4b0082">
-        <animate attributeName="stop-color" values="#4b0082;#1a1a3d;#2c3e50;#4b0082" dur="10s" repeatCount="indefinite"/>
+      <stop offset="100%" stop-color="#3a3a3a">
+        <animate attributeName="stop-color" values="#3a3a3a;#2d2d2d;#4a4a4a;#3a3a3a" dur="8s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
 
-    <!-- Text gradient -->
+    <!-- Vibrant text gradient -->
     <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ff6f61">
-        <animate attributeName="stop-color" values="#ff6f61;#ffcc5c;#6bffb8;#ff6f61" dur="8s" repeatCount="indefinite"/>
+      <stop offset="0%" stop-color="#ff4d4f">
+        <animate attributeName="stop-color" values="#ff4d4f;#ffab40;#40c4ff;#ff4d4f" dur="6s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" stop-color="#6bffb8">
-        <animate attributeName="stop-color" values="#6bffb8;#ff6f61;#ffcc5c;#6bffb8" dur="8s" repeatCount="indefinite"/>
+      <stop offset="100%" stop-color="#40c4ff">
+        <animate attributeName="stop-color" values="#40c4ff;#ff4d4f;#ffab40;#40c4ff" dur="6s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
 
     <!-- Clip path for smooth reveal -->
     <clipPath id="revealClip">
-      <rect x="0" y="0" width="0" height="140">
-        <animate attributeName="width" from="0" to="1200" dur="15s" fill="freeze" repeatCount="indefinite"/>
+      <rect x="0" y="0" width="0" height="100">
+        <animate attributeName="width" from="0" to="1200" dur="12s" fill="freeze" repeatCount="indefinite"/>
       </rect>
     </clipPath>
   </defs>
 
-  <!-- Background rectangle -->
-  <rect x="0" y="0" width="1200" height="140" fill="url(#bgGradient)"/>
+  <!-- Slim background rectangle -->
+  <rect x="0" y="0" width="1200" height="100" fill="url(#bgGradient)"/>
 
-  <!-- Animated repository names with scrolling effect -->
+  <!-- Animated repository names without bars -->
   <g clip-path="url(#revealClip)">
-    <text x="1200" y="90" font-size="60" font-family="'Roboto', sans-serif" font-weight="bold" fill="url(#textGradient)">
+    <text x="1200" y="70" font-size="65" font-family="'Inter', sans-serif" font-weight="600" letter-spacing="1" fill="url(#textGradient)">
       <tspan>python-for-beginner</tspan>
       <tspan dx="40">prottoy-foundation</tspan>
       <tspan dx="40">portfolio</tspan>
@@ -59,15 +59,15 @@
         type="translate"
         from="0 0"
         to="-4800 0"
-        dur="30s"
+        dur="25s"
         repeatCount="indefinite"
       />
     </text>
   </g>
 
   <!-- Glowing cursor -->
-  <rect x="10" y="50" width="4" height="48" fill="url(#textGradient)">
-    <animate attributeName="opacity" values="1;0.3;1" dur="0.8s" repeatCount="indefinite"/>
-    <animate attributeName="height" values="48;56;48" dur="0.8s" repeatCount="indefinite"/>
+  <rect x="10" y="35" width="4" height="40" fill="url(#textGradient)">
+    <animate attributeName="opacity" values="1;0.4;1" dur="0.7s" repeatCount="indefinite"/>
+    <animate attributeName="height" values="40;48;40" dur="0.7s" repeatCount="indefinite"/>
   </rect>
 </svg>
