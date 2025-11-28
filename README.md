@@ -451,6 +451,35 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
 ![Animated quote](./quote-anim.svg)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<h2 align="left">MealApp25</h2>
 
+<div align="center">
 
+  <!-- Navbar (Full width) -->
+  <img src="navbar.png" alt="Navbar Mobile" width="100%" />
+
+  <!-- Dashboard Section -->
+
+  <img src="dashboard.png" alt="Dashboard" width="80%" />
+
+  <hr />
+
+  <!-- Mobile Section (All in one row) -->
+  <h3> Mobile Views</h3>
+
+  <div style="display: flex; justify-content: center; align-items: flex-start; gap: 15px;">
+    <img src="mobile-dashboard.png" alt="Bazar Mobile" width="22%" />
+    <img src="bazar-mobile.png" alt="Mobile Dashboard" width="22%" />
+    <img src="monthly-cost.png" alt="Monthly Cost" width="22%" />
+    <img src="alert.png" alt="Mobile Dashboard 2" width="22%" />
+  </div>
+
+  <hr />
+
+  <!-- Bazar Section -->
+  <img src="bazar.png" alt="Bazar" width="80%" />
+
+</div>
+
+ <hr />
 
