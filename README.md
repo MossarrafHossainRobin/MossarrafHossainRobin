@@ -332,7 +332,7 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
     <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   </td>
   <td>
-    <a href="https://github.com/MossarrafHossainRobin/KaazBazar26" target="_blank">
+    <a href="https://github.com/MossarrafHossainRobin/KaazBazar" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
     </a>
   </td>
