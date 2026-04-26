@@ -317,7 +317,31 @@ Apart from development, I am highly interested in **Cybersecurity** and **Networ
     </a>
   </td>
 </tr>
-
+<tr>
+  <td><b> KaazBazar </b></td>
+  <td>
+    <span title="A Global Service Marketplace Platform connecting users with local service providers like electrician, plumber, AC repair, etc. with booking, tracking, and secure payment system">
+      Service Marketplace & Booking Platform
+    </span>
+  </td>
+  <td style="padding: 8px; border-bottom: 1px solid #ddd;">  
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+    <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  </td>
+  <td>
+    <a href="https://github.com/MossarrafHossainRobin/KaazBazar26" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://kaazbazar26.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Site-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
+    </a>
+  </td>
+</tr>
 
 
 
