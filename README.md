@@ -508,32 +508,114 @@ I am also interested in **Cybersecurity** and secure application development, wi
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-<h2 align="left">MealApp25</h2>
+<h1 align="center">NestHub</h1>
+
+<p align="center">
+  <b>Smart Meal Management & Shared Living Management Platform</b>
+</p>
+
+<p align="center">
+  NestHub is a modern full-stack web application designed to manage mess, hostel, shared flat, or bachelor house activities in an organized way. It helps users track meals, bazar costs, monthly expenses, member information, rent updates, alerts, and overall management from one clean dashboard.
+</p>
+
+<p align="center">
+  <b>Built with:</b> Next.js | React.js | Tailwind CSS | Firebase | Firestore | Authentication
+</p>
+
+<hr />
+
+<h2>Project Overview</h2>
+
+<p>
+  NestHub is created to make daily shared-living management easier. Instead of using notebooks, manual calculations, or scattered messages, this platform provides a digital system where members and admins can manage meal records, bazar costs, monthly cost summaries, notifications, and user activities in one place.
+</p>
+
+<h2>Key Features</h2>
+
+<ul>
+  <li>Modern responsive dashboard</li>
+  <li>Meal tracking system</li>
+  <li>Bazar cost management</li>
+  <li>Monthly cost calculation</li>
+  <li>Member management</li>
+  <li>House rent and payment status update</li>
+  <li>Internal alert and notification system</li>
+  <li>Mobile-friendly user interface</li>
+  <li>Firebase authentication and Firestore database</li>
+  <li>Clean, scalable, and organized project structure</li>
+</ul>
+
+<hr />
+
+<h2 align="center">Project Screenshots</h2>
 
 <div align="center">
 
-  <!-- Navbar (Full width) -->
-  <img src="picture-1.jpg" alt="Navbar" width="100%" />
+  <h3>1. Navbar / Landing Interface</h3>
+  <p>Clean and modern navigation section for the NestHub platform.</p>
+  <img src="picture-1.jpg" alt="NestHub Navbar" width="100%" />
 
-  <!-- Dashboard Section -->
-  <img src="picture-2.jpg" alt="Dashboard" width="80%" />
-
+  <br /><br />
   <hr />
 
-  <!-- Mobile Section (All in one row) -->
-  <h3>Mobile Views</h3>
+  <h3>2. Main Dashboard</h3>
+  <p>Central dashboard for managing meal, bazar, members, rent, and cost-related information.</p>
+  <img src="picture-2.jpg" alt="NestHub Dashboard" width="85%" />
 
-  <div style="display: flex; justify-content: center; align-items: flex-start; gap: 15px;">
-    <img src="picture-3.jpg" alt="Mobile Dashboard" width="22%" />
-    <img src="picture-5.jpg" alt="Monthly Cost" width="22%" />
-    <img src="picture-6.jpg" alt="Alert Mobile" width="22%" />
-  </div>
-
+  <br /><br />
   <hr />
 
-  <!-- Bazar Section -->
-  <img src="picture-7.jpg" alt="Bazar" width="80%" />
+  <h3>3. Mobile Dashboard View</h3>
+  <p>Responsive mobile dashboard view for easy access from smartphones.</p>
+  <img src="picture-3.jpg" alt="NestHub Mobile Dashboard" width="55%" />
+
+  <br /><br />
+  <hr />
+
+  <h3>4. Monthly Cost View</h3>
+  <p>Monthly cost summary section for tracking total expenses and member-wise calculations.</p>
+  <img src="picture-5.jpg" alt="NestHub Monthly Cost" width="45%" />
+
+  <br /><br />
+  <hr />
+
+  <h3>5. Alert / Notification View</h3>
+  <p>Internal notification system for rent, payment, due, and important updates.</p>
+  <img src="picture-6.jpg" alt="NestHub Alert Notification" width="45%" />
+
+  <br /><br />
+  <hr />
+
+  <h3>6. Bazar Management Section</h3>
+  <p>Desktop bazar management page for recording and monitoring daily market expenses.</p>
+  <img src="picture-7.jpg" alt="NestHub Bazar Management" width="85%" />
 
 </div>
 
 <hr />
+
+<h2>Technology Stack</h2>
+
+<ul>
+  <li><b>Frontend:</b> React.js, Next.js, Tailwind CSS</li>
+  <li><b>Backend:</b> Firebase, Firestore</li>
+  <li><b>Authentication:</b> Firebase Authentication</li>
+  <li><b>Database:</b> Cloud Firestore</li>
+  <li><b>Deployment:</b> Vercel / Firebase Hosting</li>
+</ul>
+
+<hr />
+
+<h2>Purpose of the Project</h2>
+
+<p>
+  The main purpose of NestHub is to simplify shared living management by providing a smart, clean, and digital solution. It reduces manual work, improves transparency, and helps members clearly understand meal costs, monthly expenses, rent status, and payment updates.
+</p>
+
+<hr />
+
+<p align="center">
+  <b>Developed by Mossarraf Hossain Robin</b>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
