@@ -25,7 +25,7 @@
 
 
 🎓 **Computer Science and Engineering Student** at **Green University of Bangladesh, Dhaka**  
-💻 **Frontend Developer | Cybersecurity Enthusiast | Problem Solver**  
+💻 **FullStack Developer | Cybersecurity Enthusiast | Problem Solver**  
 🌱 *Passionate about creating innovative solutions, breaking complex challenges, and continuous learning.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mossarrafhossainrobin)
@@ -40,9 +40,8 @@
 
 ## 📌 About Me
 
-I am **Mossarraf Hossain Robin**, a passionate **Frontend Developer** with expertise in building responsive, dynamic, and user-friendly websites using **modern web technologies**. I have been freelancing since **2019**, solving real-world problems with clean, scalable, and optimized code.
-
-Apart from development, I am highly interested in **Cybersecurity** and **Network Defense**. I am committed to improving my problem-solving skills through **Data Structures, Algorithms, and System Design**. My career goal is to become a **versatile Software Engineer and Cybersecurity Specialist**.
+I am **Mossarraf Hossain Robin**, a passionate **Full-Stack Developer** focused on building modern, responsive, secure, and scalable web applications.I work with **React.js, Next.js, JavaScript, Tailwind CSS, Firebase, Firestore, Node.js, Express.js, MongoDB, and REST APIs** to create complete full-stack solutions.
+I am also interested in **Cybersecurity** and secure application development, with a goal to grow as a versatile **Software Engineer**.
 
 ---
 
