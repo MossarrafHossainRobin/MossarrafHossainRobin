@@ -506,3 +506,34 @@ I am also interested in **Cybersecurity** and secure application development, wi
 
  <hr />
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+<h2 align="left">MealApp25</h2>
+
+<div align="center">
+
+  <!-- Navbar (Full width) -->
+  <img src="picture-1.jpg" alt="Navbar" width="100%" />
+
+  <!-- Dashboard Section -->
+  <img src="picture-2.jpg" alt="Dashboard" width="80%" />
+
+  <hr />
+
+  <!-- Mobile Section (All in one row) -->
+  <h3>Mobile Views</h3>
+
+  <div style="display: flex; justify-content: center; align-items: flex-start; gap: 15px;">
+    <img src="picture-3.jpg" alt="Mobile Dashboard" width="22%" />
+    <img src="picture-5.jpg" alt="Monthly Cost" width="22%" />
+    <img src="picture-6.jpg" alt="Alert Mobile" width="22%" />
+  </div>
+
+  <hr />
+
+  <!-- Bazar Section -->
+  <img src="picture-7.jpg" alt="Bazar" width="80%" />
+
+</div>
+
+<hr />
