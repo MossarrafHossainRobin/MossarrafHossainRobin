@@ -31,11 +31,26 @@
 
 ## 📌 About Me
 
-I am **Mossarraf Hossain Robin**, a passionate **Full-Stack Developer** focused on building modern, responsive, secure, and scalable web applications.
+<p>
+I am <b>Mossarraf Hossain Robin</b>, a passionate 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=900&color=6C63FF&vCenter=true&height=20&width=215&lines=Full-Stack+Developer;Web+App+Builder;Problem+Solver" alt="Full-Stack Developer Animation" height="20" align="center" />
+and <b>Computer Science and Engineering student</b> focused on building modern, responsive, secure, and scalable web applications.
+</p>
 
-I work with **React.js, Next.js, JavaScript, Tailwind CSS, Firebase, Firestore, Node.js, Express.js, MongoDB, MySQL, PHP, and REST APIs** to create complete full-stack solutions.
+I enjoy transforming real-world problems into practical digital solutions using clean UI design, structured backend logic, database management, authentication systems, dashboard features, and user-friendly workflows.
 
-I am also interested in **Cybersecurity** and secure application development, with a goal to grow as a versatile **Software Engineer**.
+My development stack includes **React.js, Next.js, JavaScript, Tailwind CSS, Firebase, Firestore, Node.js, Express.js, MongoDB, MySQL, PHP, and REST APIs**. I work on both frontend and backend parts to build complete, functional, and production-ready web applications.
+
+I am also deeply interested in **Cybersecurity**, secure coding practices, authentication, data protection, and building applications that are not only beautiful but also reliable and safe for users.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Frontend-Responsive_UI_Design-38BDF8?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend-API_Development-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Database-MongoDB_%7C_MySQL-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Security-Secure_App_Flow-F97316?style=flat-square&logo=owasp&logoColor=white" />
+
+</div>
 
 ---
 
