@@ -683,6 +683,214 @@ I am also deeply interested in **Cybersecurity**, secure coding practices, authe
   </tr>
 </table>
 
+
+---
+
+<a id="nesthub-project-showcase"></a>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+## NestHub Project Showcase
+
+<div align="center">
+
+<p>
+  <img src="https://img.shields.io/badge/Project-NestHub-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/System-Smart_Meal_Operations-6C63FF?style=for-the-badge&logo=homeassistant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Panel-User_%2B_Admin_%2B_Chat-0EA5E9?style=for-the-badge&logo=dashboarddotcom&logoColor=white" />
+</p>
+
+<p>
+  <b>NestHub</b> is an upgraded version of MealApp25, built as a modern smart meal operation platform for managing meals, bazar, bills, members, dashboard analytics, real-time chat, and admin workflows.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+<p>
+  <a href="https://github.com/MossarrafHossainRobin/colive" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://colive-pi.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Live_Preview-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### System Modules Overview
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/User_Panel-Home_%7C_Dashboard_%7C_Meals_%7C_Bills-2563EB?style=for-the-badge&logo=user&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Admin_Panel-Members_%7C_Bazar_%7C_Meals_%7C_Bills-6C63FF?style=for-the-badge&logo=adminer&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Chat_System-Live_Messages_%7C_Notifications-22C55E?style=for-the-badge&logo=messenger&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/UI_Design-Modern_%7C_Clean_%7C_Responsive-F97316?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### User Panel Views
+
+<table>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>Home Overview</h3>
+      <kbd>
+        <img src="user-home-nesthub.png" alt="NestHub Home Page" width="100%" />
+      </kbd>
+      <br/>
+      <b>Landing & Smart Meal Overview</b>
+      <br/>
+      <sub>Modern home page with dashboard entry, real-time data, secure authentication, automated reports, and visual analytics.</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <h3>User Dashboard</h3>
+      <kbd>
+        <img src="user-dashboard-nesthub.png" alt="NestHub User Dashboard" width="100%" />
+      </kbd>
+      <br/>
+      <b>Monthly Statement Dashboard</b>
+      <br/>
+      <sub>User dashboard with total payable, paid amount, balance, progress, monthly standing, member snapshot, and latest bazar updates.</sub>
+    </td>
+    <td align="center" width="50%">
+      <h3>Collapsed Dashboard View</h3>
+      <kbd>
+        <img src="user-dashboard-collapse-nesthub.png" alt="NestHub Collapsed Dashboard" width="100%" />
+      </kbd>
+      <br/>
+      <b>Compact Dashboard Layout</b>
+      <br/>
+      <sub>Collapsed sidebar layout with monthly statement, member list, status cards, and quick access panel.</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <h3>User Meals</h3>
+      <kbd>
+        <img src="user-meals-nesthub.png" alt="NestHub User Meals" width="100%" />
+      </kbd>
+      <br/>
+      <b>Meal Breakdown</b>
+      <br/>
+      <sub>Monthly meal summary with lunch, dinner, guest meals, meal rate, meal cost, bazar paid, due status, and meal alerts.</sub>
+    </td>
+    <td align="center" width="50%">
+      <h3>User Bazar</h3>
+      <kbd>
+        <img src="user-bazar-nesthub.png" alt="NestHub User Bazar" width="100%" />
+      </kbd>
+      <br/>
+      <b>Bazar Breakdown</b>
+      <br/>
+      <sub>User bazar records with date, place, amount, notes, latest notifications, and bazar message updates.</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <h3>User Bills</h3>
+      <kbd>
+        <img src="user-bills-nesthub.png" alt="NestHub User Bills" width="100%" />
+      </kbd>
+      <br/>
+      <b>House Expense Breakdown</b>
+      <br/>
+      <sub>Month-wise rent, utility, payable, due, expense count, selected month filter, and member bill view.</sub>
+    </td>
+    <td align="center" width="50%">
+      <h3>User Chat</h3>
+      <kbd>
+        <img src="user-chat-nesthub.png" alt="NestHub User Chat" width="100%" />
+      </kbd>
+      <br/>
+      <b>Messenger Style Chat</b>
+      <br/>
+      <sub>Real-time chat interface with conversation list, unread filter, message thread, notification update, nickname option, and privacy controls.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Admin Panel Views
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Admin Members</h3>
+      <kbd>
+        <img src="admin-member-nesthub.png" alt="NestHub Admin Member Management" width="100%" />
+      </kbd>
+      <br/>
+      <b>Member Management</b>
+      <br/>
+      <sub>Admin member control with total users, active members, flat members, member table, role, room, status, search, and action tools.</sub>
+    </td>
+    <td align="center" width="50%">
+      <h3>Admin Meals</h3>
+      <kbd>
+        <img src="admin-meals-nesthub.png" alt="NestHub Admin Meal Management" width="100%" />
+      </kbd>
+      <br/>
+      <b>Meal Entry Management</b>
+      <br/>
+      <sub>Meal entry form with member selection, date, lunch, dinner, guest count, and meal entries table with admin controls.</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <h3>Admin Bazar</h3>
+      <kbd>
+        <img src="admin-bazar-nesthub.png" alt="NestHub Admin Bazar Management" width="100%" />
+      </kbd>
+      <br/>
+      <b>Bazar Management</b>
+      <br/>
+      <sub>Admin bazar dashboard with searchable member cards, month filter, member-wise bazar, payments, payable, net credit, and status overview.</sub>
+    </td>
+    <td align="center" width="50%">
+      <h3>Admin Bills</h3>
+      <kbd>
+        <img src="admin-bills-nesthub.png" alt="NestHub Admin Bills Management" width="100%" />
+      </kbd>
+      <br/>
+      <b>Bill Management</b>
+      <br/>
+      <sub>Month-wise bill management with total payable, rent, utility, paid, due, advance, and member-wise monthly calculation.</sub>
+    </td>
+  </tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
 <a id="mealapp25-project-showcase"></a>
 
 ## MealApp25 Project Showcase
