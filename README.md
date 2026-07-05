@@ -471,61 +471,7 @@ I am also deeply interested in **Cybersecurity**, secure coding practices, authe
 
 ---
 
-## 📊 GitHub Stats
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-  <b>GitHub Overview</b><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MossarrafHossainRobin&show_icons=true&theme=radical&count_private=true&hide_border=false&border_radius=12" height="165px" />
-</td>
-<td align="center" width="50%">
-  <b>Most Used Languages</b><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MossarrafHossainRobin&layout=compact&langs_count=8&theme=radical&hide_border=false&border_radius=12" height="165px" />
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-  <b>Contribution Streak</b><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MossarrafHossainRobin&theme=radical&hide_border=false&border_radius=12" height="175px" />
-</td>
-</tr>
-</table>
-
----
-
-## 📈 Detailed Statistics
-
-<table align="center">
-<tr>
-<td align="center" colspan="2">
-  <b>Profile Summary</b><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MossarrafHossainRobin&theme=2077" width="95%" />
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-  <b>Productive Time</b><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MossarrafHossainRobin&theme=2077" height="165px" />
-</td>
-<td align="center" width="50%">
-  <b>Repositories Per Language</b><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MossarrafHossainRobin&theme=2077" height="165px" />
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-  <b>Commits Per Language</b><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MossarrafHossainRobin&theme=2077" height="165px" />
-</td>
-<td align="center" width="50%">
-  <b>Profile Details</b><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MossarrafHossainRobin&theme=2077" height="165px" />
-</td>
-</tr>
-</table>
-
----
 
 ## ⚡ Activity Graph
 
@@ -1249,6 +1195,53 @@ I am also deeply interested in **Cybersecurity**, secure coding practices, authe
 </table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+## 📊 GitHub Analytics
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+  <b>GitHub Overview</b><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MossarrafHossainRobin&show_icons=true&theme=radical&count_private=true&hide_border=false&border_radius=12" height="150px" />
+</td>
+<td align="center" width="25%">
+  <b>Most Used Languages</b><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MossarrafHossainRobin&layout=compact&langs_count=8&theme=radical&hide_border=false&border_radius=12" height="150px" />
+</td>
+<td align="center" colspan="2" width="50%">
+  <b>Contribution Streak</b><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MossarrafHossainRobin&theme=radical&hide_border=false&border_radius=12" height="150px" />
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="4">
+  <b>Profile Summary</b><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MossarrafHossainRobin&theme=2077" width="96%" />
+</td>
+</tr>
+
+<tr>
+<td align="center" width="25%">
+  <b>Productive Time</b><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MossarrafHossainRobin&theme=2077" height="145px" />
+</td>
+<td align="center" width="25%">
+  <b>Repos Per Language</b><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MossarrafHossainRobin&theme=2077" height="145px" />
+</td>
+<td align="center" width="25%">
+  <b>Commits Per Language</b><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MossarrafHossainRobin&theme=2077" height="145px" />
+</td>
+<td align="center" width="25%">
+  <b>Profile Details</b><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MossarrafHossainRobin&theme=2077" height="145px" />
+</td>
+</tr>
+</table>
+
+---
 
 ## 🤝 Let's Connect
 
