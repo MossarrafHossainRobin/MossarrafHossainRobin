@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="git-profile-banner.jfif" alt="GitHub Profile Banner" width="100%" />
+<img src="fullstack.png" alt="GitHub Profile Banner" width="100%" />
 
 <h3>🎓 CSE Student | Full-Stack Developer | Cybersecurity Enthusiast</h3>
 
