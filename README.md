@@ -141,7 +141,7 @@ I am also deeply interested in **Cybersecurity**, secure coding practices, authe
 </a>
 </td>
 <td>
-<a href="https://kaazbazar26.vercel.app" target="_blank" rel="noopener noreferrer">
+<a href="https://kaazbazar.com" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Live_Preview-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 </td>
