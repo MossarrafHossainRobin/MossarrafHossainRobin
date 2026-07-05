@@ -681,10 +681,7 @@ I am also deeply interested in **Cybersecurity**, secure coding practices, authe
       <sub>Dark footer with newsletter subscription, social links, provider resources, support links, and AI assistant button.</sub>
     </td>
   </tr>
-</table>
-
-
----
+</table>---
 
 <a id="nesthub-project-showcase"></a>
 
@@ -701,7 +698,7 @@ I am also deeply interested in **Cybersecurity**, secure coding practices, authe
 </p>
 
 <p>
-  <b>NestHub</b> is an upgraded version of MealApp25, built as a modern smart meal operation platform for managing meals, bazar, bills, members, dashboard analytics, real-time chat, and admin workflows.
+  <b>NestHub</b> is an upgraded version of <b>MealApp25</b>, built as a modern smart meal operation platform for managing meals, bazar, bills, members, dashboard analytics, real-time chat, notifications, and admin workflows.
 </p>
 
 <p>
@@ -885,6 +882,25 @@ I am also deeply interested in **Cybersecurity**, secure coding practices, authe
       <b>Bill Management</b>
       <br/>
       <sub>Month-wise bill management with total payable, rent, utility, paid, due, advance, and member-wise monthly calculation.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Footer View
+
+<table>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>NestHub Footer Section</h3>
+      <kbd>
+        <img src="user-footer-nesthub.png" alt="NestHub Footer Section" width="100%" />
+      </kbd>
+      <br/>
+      <b>Footer & Quick Links</b>
+      <br/>
+      <sub>Dark modern footer with brand identity, quick links, trusted community message, copyright information, and professional closing layout.</sub>
     </td>
   </tr>
 </table>
