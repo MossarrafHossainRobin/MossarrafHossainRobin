@@ -146,7 +146,26 @@ I am also deeply interested in **Cybersecurity**, secure coding practices, authe
 </a>
 </td>
 </tr>
-
+<tr>
+<td><b>KaazBazar Prototype</b></td>
+<td>Prototype version of a service marketplace platform for local service booking, provider management, and user-friendly service browsing.</td>
+<td>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
+</td>
+<td>
+<a href="https://github.com/MossarrafHossainRobin/Servly" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+<td>
+<a href="https://kaajbazar.vercel.app/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Live_Preview-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+</td>
+</tr>
 <tr>
 <td><b>Meal App 25</b></td>
 <td>Bazar, meal count, monthly cost, duty, alerts, and member activity system.</td>
