@@ -21,7 +21,16 @@
   <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/>
+<br/><br/>
+
+<a href="#project-showcase">
+  <img src="https://img.shields.io/badge/View_Project_Showcase-E91E63?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="#mealapp25-project-showcase">
+  <img src="https://img.shields.io/badge/MealApp25_Screenshots-6C63FF?style=for-the-badge&logo=googlephotos&logoColor=white" />
+</a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=mossarrafhossainrobin&label=Profile%20Views&color=6c63ff&style=flat-square" />
 
@@ -141,7 +150,7 @@ I am also deeply interested in **Cybersecurity**, secure coding practices, authe
 </a>
 </td>
 <td>
-<a href="https://kaazbazar.com" target="_blank" rel="noopener noreferrer">
+<a href="https://kaazbazar26.vercel.app" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Live_Preview-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 </td>
@@ -166,8 +175,8 @@ I am also deeply interested in **Cybersecurity**, secure coding practices, authe
 </a>
 </td>
 </tr>
+
 <tr>
-  <tr>
 <td><b>NestHub</b></td>
 <td>Upgraded version of Meal App 25 with modern meal, bazar, member, cost, duty, and shared living management features using a Next.js-based interface.</td>
 <td>
@@ -187,6 +196,8 @@ I am also deeply interested in **Cybersecurity**, secure coding practices, authe
 </a>
 </td>
 </tr>
+
+<tr>
 <td><b>Meal App 25</b></td>
 <td>Bazar, meal count, monthly cost, duty, alerts, and member activity system.</td>
 <td>
@@ -547,6 +558,7 @@ I am also deeply interested in **Cybersecurity**, secure coding practices, authe
 ---
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
+<a id="project-showcase"></a>
 ## KaajBazar Prototype Project Showcase
 
 <div align="center">
@@ -670,6 +682,8 @@ I am also deeply interested in **Cybersecurity**, secure coding practices, authe
     </td>
   </tr>
 </table>
+
+<a id="mealapp25-project-showcase"></a>
 
 ## MealApp25 Project Showcase
 
