@@ -1247,18 +1247,37 @@ I am also deeply interested in **Cybersecurity**, secure coding practices, authe
 
 <div align="center">
 
-<p>I am open to collaboration, internships, freelance work, and full-stack project opportunities.</p>
+<p>
+  Open to freelance projects, full-stack web apps, dashboard systems, marketplace platforms, and collaboration.
+</p>
 
-<a href="https://linkedin.com/in/mossarrafhossainrobin" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:mossarrafhossainrobin@email.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/mossarrafhossainrobin?tab=repositories" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p>
+  <a href="https://linkedin.com/in/mossarrafhossainrobin" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="32" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/mossarrafhossainrobin" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/github/181717" height="32" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/mossarrafhossainrobin" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="32" alt="Facebook" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/880131247030" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="32" alt="WhatsApp" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:mossarrafhossainrobin@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="32" alt="Gmail" />
+  </a>
+</p>
 
-<h3>Thanks for visiting my GitHub profile</h3>
+<p>
+  <img src="https://img.shields.io/badge/Available_for-Full--Stack_Projects-6C63FF?style=flat-square&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Response-Professional_%26_Fast-22C55E?style=flat-square&logo=googlemessages&logoColor=white" />
+</p>
+
+<sub>Thanks for visiting my GitHub profile.</sub>
 
 </div>
