@@ -11,13 +11,13 @@
   Building modern, responsive, secure, and scalable web applications.
 </p>
 
-<a href="https://linkedin.com/in/mossarrafhossainrobin">
+<a href="https://linkedin.com/in/mossarrafhossainrobin" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.facebook.com/mossarrafhossainrobin">
+<a href="https://www.facebook.com/mossarrafhossainrobin" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="mailto:mossarrafhossainrobin@email.com">
+<a href="mailto:mossarrafhossainrobin@email.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -43,47 +43,49 @@ I am also interested in **Cybersecurity** and secure application development, wi
 
 <div align="center">
 
-### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Programming-6C63FF?style=flat-square&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+</p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Frontend-00BFFF?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-264DE4?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+</p>
 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Backend_&_Database-22C55E?style=flat-square&logo=serverfault&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
 
-### Frontend Development
-
-<img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
-
-<img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-
-### Backend & Database
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black" />
-
-<img src="https://img.shields.io/badge/Firestore-ffca28?style=flat-square&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-
-### Tools, IDEs & Platforms
-
-<img src="https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" />
-<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Tools_&_Platforms-F97316?style=flat-square&logo=windowsterminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D7?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+</p>
 
 </div>
 
@@ -92,7 +94,7 @@ I am also interested in **Cybersecurity** and secure application development, wi
 ## 🚀 Featured Projects
 
 <div align="center">
-<b>Selected projects showcasing full-stack development, responsive UI, database integration, dashboards, and practical problem solving.</b>
+<b>Selected projects showcasing full-stack development, responsive UI, database integration, dashboards, and real-world problem solving.</b>
 </div>
 
 <br/>
@@ -118,8 +120,16 @@ I am also interested in **Cybersecurity** and secure application development, wi
 <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white" />
 </td>
-<td><a href="https://github.com/MossarrafHossainRobin/KaazBazar"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
-<td><a href="https://kaazbazar26.vercel.app"><img src="https://img.shields.io/badge/Live-0a66c2?style=flat-square&logo=google-chrome&logoColor=white" /></a></td>
+<td>
+<a href="https://github.com/MossarrafHossainRobin/KaazBazar" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+<td>
+<a href="https://kaazbazar26.vercel.app" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Live_Preview-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+</td>
 </tr>
 
 <tr>
@@ -131,8 +141,16 @@ I am also interested in **Cybersecurity** and secure application development, wi
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
 </td>
-<td><a href="https://github.com/MossarrafHossainRobin/MealApp25/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
-<td><a href="https://mealapp25.unaux.com/"><img src="https://img.shields.io/badge/Live-0a66c2?style=flat-square&logo=google-chrome&logoColor=white" /></a></td>
+<td>
+<a href="https://github.com/MossarrafHossainRobin/MealApp25/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+<td>
+<a href="https://mealapp25.unaux.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Live_Preview-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+</td>
 </tr>
 
 <tr>
@@ -144,8 +162,16 @@ I am also interested in **Cybersecurity** and secure application development, wi
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white" />
 </td>
-<td><a href="https://github.com/MossarrafHossainRobin/NetOptima"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
-<td><a href="https://netoptima.netlify.app/"><img src="https://img.shields.io/badge/Live-0a66c2?style=flat-square&logo=google-chrome&logoColor=white" /></a></td>
+<td>
+<a href="https://github.com/MossarrafHossainRobin/NetOptima" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+<td>
+<a href="https://netoptima.netlify.app/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Live_Preview-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+</td>
 </tr>
 
 <tr>
@@ -157,8 +183,16 @@ I am also interested in **Cybersecurity** and secure application development, wi
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
 </td>
-<td><a href="https://github.com/MossarrafHossainRobin/AgroCulture-Management-System"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
-<td><a href="https://agrocultureproject.netlify.app/"><img src="https://img.shields.io/badge/Live-0a66c2?style=flat-square&logo=google-chrome&logoColor=white" /></a></td>
+<td>
+<a href="https://github.com/MossarrafHossainRobin/AgroCulture-Management-System" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+<td>
+<a href="https://agrocultureproject.netlify.app/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Live_Preview-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+</td>
 </tr>
 
 <tr>
@@ -170,8 +204,16 @@ I am also interested in **Cybersecurity** and secure application development, wi
 <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
 </td>
-<td><a href="https://github.com/mossarrafhossainrobin/portfolio"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
-<td><a href="https://mossarrafhossainrobin.github.io/portfolio/"><img src="https://img.shields.io/badge/Live-0a66c2?style=flat-square&logo=google-chrome&logoColor=white" /></a></td>
+<td>
+<a href="https://github.com/mossarrafhossainrobin/portfolio" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+<td>
+<a href="https://mossarrafhossainrobin.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Live_Preview-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+</td>
 </tr>
 
 <tr>
@@ -183,8 +225,16 @@ I am also interested in **Cybersecurity** and secure application development, wi
 <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
 </td>
-<td><a href="https://github.com/MossarrafHossainRobin/onebite"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
-<td><a href="https://onebite.wuaze.com"><img src="https://img.shields.io/badge/Live-0a66c2?style=flat-square&logo=google-chrome&logoColor=white" /></a></td>
+<td>
+<a href="https://github.com/MossarrafHossainRobin/onebite" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+<td>
+<a href="https://onebite.wuaze.com" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Live_Preview-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+</td>
 </tr>
 
 <tr>
@@ -196,8 +246,16 @@ I am also interested in **Cybersecurity** and secure application development, wi
 <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
 </td>
-<td><a href="https://github.com/MossarrafHossainRobin/elitefootwear"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
-<td><a href="https://elitefootwear.wuaze.com"><img src="https://img.shields.io/badge/Live-0a66c2?style=flat-square&logo=google-chrome&logoColor=white" /></a></td>
+<td>
+<a href="https://github.com/MossarrafHossainRobin/elitefootwear" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+<td>
+<a href="https://elitefootwear.wuaze.com" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Live_Preview-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+</td>
 </tr>
 
 <tr>
@@ -209,8 +267,16 @@ I am also interested in **Cybersecurity** and secure application development, wi
 <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
 </td>
-<td><a href="https://github.com/mossarrafhossainrobin/prottoy-foundation"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
-<td><a href="https://prottoyfoundation.wuaze.com/"><img src="https://img.shields.io/badge/Live-0a66c2?style=flat-square&logo=google-chrome&logoColor=white" /></a></td>
+<td>
+<a href="https://github.com/mossarrafhossainrobin/prottoy-foundation" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+<td>
+<a href="https://prottoyfoundation.wuaze.com/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Live_Preview-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+</td>
 </tr>
 
 <tr>
@@ -222,8 +288,16 @@ I am also interested in **Cybersecurity** and secure application development, wi
 <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
 </td>
-<td><a href="https://github.com/mossarrafhossainrobin/Bit-by-Bit-line-coding-visualizer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
-<td><a href="https://mossarrafhossainrobin.github.io/Bit-by-Bit-Line-Coding-Visualizer/"><img src="https://img.shields.io/badge/Live-0a66c2?style=flat-square&logo=google-chrome&logoColor=white" /></a></td>
+<td>
+<a href="https://github.com/mossarrafhossainrobin/Bit-by-Bit-line-coding-visualizer" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+<td>
+<a href="https://mossarrafhossainrobin.github.io/Bit-by-Bit-Line-Coding-Visualizer/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Live_Preview-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+</td>
 </tr>
 
 <tr>
@@ -234,8 +308,16 @@ I am also interested in **Cybersecurity** and secure application development, wi
 <img src="https://img.shields.io/badge/Java_Swing-6db33f?style=flat-square&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </td>
-<td><a href="https://github.com/MossarrafHossainRobin/Inventory-Management-System-Java-Swing-UI"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
-<td><a href="https://github.com/MossarrafHossainRobin/Inventory-Management-System-Java-Swing-UI"><img src="https://img.shields.io/badge/Preview-6c63ff?style=flat-square&logo=github&logoColor=white" /></a></td>
+<td>
+<a href="https://github.com/MossarrafHossainRobin/Inventory-Management-System-Java-Swing-UI" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+<td>
+<a href="https://github.com/MossarrafHossainRobin/Inventory-Management-System-Java-Swing-UI" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Preview-6c63ff?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
 </tr>
 
 <tr>
@@ -246,15 +328,23 @@ I am also interested in **Cybersecurity** and secure application development, wi
 <img src="https://img.shields.io/badge/Swing-6db33f?style=flat-square&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
 </td>
-<td><a href="https://github.com/MossarrafHossainRobin/Bit-To-Bit-Array-Multiplier"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
-<td><a href="https://mossarrafhossainrobin.github.io/Bit-To-Bit-Array-Multiplier/"><img src="https://img.shields.io/badge/Live-0a66c2?style=flat-square&logo=google-chrome&logoColor=white" /></a></td>
+<td>
+<a href="https://github.com/MossarrafHossainRobin/Bit-To-Bit-Array-Multiplier" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+<td>
+<a href="https://mossarrafhossainrobin.github.io/Bit-To-Bit-Array-Multiplier/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Live_Preview-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+</td>
 </tr>
 
 </tbody>
 </table>
 
 <div align="center">
-<a href="https://github.com/mossarrafhossainrobin?tab=repositories">
+<a href="https://github.com/mossarrafhossainrobin?tab=repositories" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </div>
@@ -264,7 +354,7 @@ I am also interested in **Cybersecurity** and secure application development, wi
 ## 📚 Educational Hub
 
 <div align="center">
-<a href="https://github.com/MossarrafHossainRobin/Educational-Resources">
+<a href="https://github.com/MossarrafHossainRobin/Educational-Resources" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Educational_Resources-Open_Repository-6c63ff?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </div>
@@ -285,7 +375,11 @@ I am also interested in **Cybersecurity** and secure application development, wi
 <td><b>Cyber Security</b></td>
 <td>Cybersecurity textbook and learning resources.</td>
 <td><img src="https://img.shields.io/badge/PDF-FF0000?style=flat-square&logo=adobeacrobatreader&logoColor=white" /></td>
-<td><a href="https://github.com/MossarrafHossainRobin/Educational-Resources/tree/main/Books"><img src="https://img.shields.io/badge/View-Files-0a66c2?style=flat-square&logo=github&logoColor=white" /></a></td>
+<td>
+<a href="https://github.com/MossarrafHossainRobin/Educational-Resources/tree/main/Books" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/View-Files-0a66c2?style=flat-square&logo=github&logoColor=white" />
+</a>
+</td>
 </tr>
 <tr>
 <td>Assignment</td>
@@ -296,7 +390,11 @@ I am also interested in **Cybersecurity** and secure application development, wi
 <img src="https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
 </td>
-<td><a href="https://github.com/MossarrafHossainRobin/Educational-Resources/tree/main/Assignment"><img src="https://img.shields.io/badge/View-Files-0a66c2?style=flat-square&logo=github&logoColor=white" /></a></td>
+<td>
+<a href="https://github.com/MossarrafHossainRobin/Educational-Resources/tree/main/Assignment" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/View-Files-0a66c2?style=flat-square&logo=github&logoColor=white" />
+</a>
+</td>
 </tr>
 <tr>
 <td>Template</td>
@@ -306,7 +404,11 @@ I am also interested in **Cybersecurity** and secure application development, wi
 <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
 <img src="https://img.shields.io/badge/ZIP-000000?style=flat-square&logo=files&logoColor=white" />
 </td>
-<td><a href="https://github.com/MossarrafHossainRobin/Educational-Resources/tree/main/Templates"><img src="https://img.shields.io/badge/View-Files-0a66c2?style=flat-square&logo=github&logoColor=white" /></a></td>
+<td>
+<a href="https://github.com/MossarrafHossainRobin/Educational-Resources/tree/main/Templates" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/View-Files-0a66c2?style=flat-square&logo=github&logoColor=white" />
+</a>
+</td>
 </tr>
 </tbody>
 </table>
@@ -434,13 +536,13 @@ MealApp25 is a web application for managing meal count, bazar cost, monthly expe
 
 <p>I am open to collaboration, internships, freelance work, and full-stack project opportunities.</p>
 
-<a href="https://linkedin.com/in/mossarrafhossainrobin">
+<a href="https://linkedin.com/in/mossarrafhossainrobin" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:mossarrafhossainrobin@email.com">
+<a href="mailto:mossarrafhossainrobin@email.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/mossarrafhossainrobin?tab=repositories">
+<a href="https://github.com/mossarrafhossainrobin?tab=repositories" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
