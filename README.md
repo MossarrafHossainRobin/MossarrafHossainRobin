@@ -583,6 +583,133 @@ MealApp25 is a web application for managing meal count, bazar cost, monthly expe
 </div>
 
 ---
+---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+## KaajBazar Prototype Project Showcase
+
+<div align="center">
+
+<p>
+  <b>KaajBazar Prototype</b> is a modern service marketplace web application where users can explore professional services, find skilled workers, view expert profiles, send hire requests, and interact through a clean service-based platform.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Project-KaajBazar_Prototype-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Type-Service_Marketplace-0EA5E9?style=for-the-badge&logo=briefcase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Prototype-22C55E?style=for-the-badge&logo=rocket&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+<p>
+  <a href="https://github.com/MossarrafHossainRobin/Servly" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://kaajbazar.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Live_Preview-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+### Desktop Views
+
+<table>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="home-page-kaajbazar.png" alt="KaajBazar Prototype Home Page" width="100%" />
+      <br/>
+      <b>Home Page</b>
+      <br/>
+      <sub>Hero section with service search, location, statistics, and modern landing interface.</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <img src="explore-services.png" alt="KaajBazar Explore Services" width="100%" />
+      <br/>
+      <b>Explore Services</b>
+      <br/>
+      <sub>Professional service category cards with clean spacing and highlighted actions.</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="service-pages.png" alt="KaajBazar Service Pages" width="100%" />
+      <br/>
+      <b>Service Categories</b>
+      <br/>
+      <sub>Service category layout for electricians, plumbers, carpenters, cleaners, gardeners, and appliance repair.</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <img src="electrical.png" alt="KaajBazar Electrical Services" width="100%" />
+      <br/>
+      <b>Electrical Services</b>
+      <br/>
+      <sub>Expert cards with ratings, hourly price, location, service tags, booking, and profile actions.</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="gardening-portion.png" alt="KaajBazar Gardening Services" width="100%" />
+      <br/>
+      <b>Gardening Experts</b>
+      <br/>
+      <sub>Grid-based expert listing with colorful service cards and strong visual hierarchy.</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <img src="plumbin.png" alt="KaajBazar Plumbing Services" width="100%" />
+      <br/>
+      <b>Plumbing Services</b>
+      <br/>
+      <sub>Plumber and repair expert listing with responsive desktop card layout.</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="profile-page.png" alt="KaajBazar Expert Profile Page" width="100%" />
+      <br/>
+      <b>Expert Profile & Hire Request</b>
+      <br/>
+      <sub>Profile details, hire form, service type, schedule, and quote request flow.</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <img src="appliance-repair.png" alt="KaajBazar Appliance Repair Page" width="100%" />
+      <br/>
+      <b>Appliance Repair Booking</b>
+      <br/>
+      <sub>Detailed hire request form with live chat widget and service issue description.</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="login pages.png" alt="KaajBazar Login Page" width="100%" />
+      <br/>
+      <b>Login Page</b>
+      <br/>
+      <sub>Simple authentication interface with email/phone login and account navigation.</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" colspan="2">
+      <img src="footer-view.png" alt="KaajBazar Footer View" width="100%" />
+      <br/>
+      <b>Footer & Newsletter Section</b>
+      <br/>
+      <sub>Dark footer with newsletter subscription, social links, provider resources, support links, and AI assistant button.</sub>
+    </td>
+  </tr>
+</table>
 
 ## 🤝 Let's Connect
 
