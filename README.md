@@ -543,48 +543,8 @@ I am also deeply interested in **Cybersecurity**, secure coding practices, authe
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
-## MealApp25 Project Showcase
-
-<p>
-MealApp25 is a web application for managing meal count, bazar cost, monthly expenses, member activities, duty assignment, and alerts.
-</p>
-
-<div align="center">
-
-<img src="navbar.png" alt="MealApp25 Navbar" width="100%" />
-
-<img src="dashboard.png" alt="MealApp25 Dashboard" width="82%" />
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="mobile-dashboard.png" alt="Mobile Dashboard" width="100%" />
-<b>Mobile Dashboard</b>
-</td>
-<td align="center" width="25%">
-<img src="bazar-mobile.png" alt="Bazar Mobile" width="100%" />
-<b>Bazar Mobile</b>
-</td>
-<td align="center" width="25%">
-<img src="monthly-cost.png" alt="Monthly Cost" width="100%" />
-<b>Monthly Cost</b>
-</td>
-<td align="center" width="25%">
-<img src="alert.png" alt="Alert System" width="100%" />
-<b>Alert System</b>
-</td>
-</tr>
-</table>
-
-<img src="bazar.png" alt="MealApp25 Bazar Section" width="82%" />
-
-</div>
 
 ---
----
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## KaajBazar Prototype Project Showcase
@@ -710,6 +670,356 @@ MealApp25 is a web application for managing meal count, bazar cost, monthly expe
     </td>
   </tr>
 </table>
+
+## MealApp25 Project Showcase
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Project-MealApp25-E91E63?style=for-the-badge&logo=foodpanda&logoColor=white" />
+  <img src="https://img.shields.io/badge/System-Meal_%26_Bazar_Management-6C63FF?style=for-the-badge&logo=homeassistant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Panel-User_%2B_Admin-0EA5E9?style=for-the-badge&logo=dashboarddotcom&logoColor=white" />
+</p>
+
+<p>
+  <b>MealApp25</b> is a complete meal, bazar, cost, water duty, payment, alert, settlement, and member management system designed for shared living, hostel, mess, and flat expense management.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+<p>
+  <a href="https://github.com/MossarrafHossainRobin/MealApp25/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://mealapp25.unaux.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Live_Preview-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### System Modules Overview
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/User_Panel-Dashboard_%7C_Meals_%7C_Costs-E91E63?style=for-the-badge&logo=user&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Payment_Flow-Send_Money_%7C_OTP-8E44AD?style=for-the-badge&logo=maildotru&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Admin_Panel-Members_%7C_Bazar_%7C_Settlement-0066CC?style=for-the-badge&logo=adminer&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Responsive_View-Desktop_%7C_Mobile-22C55E?style=for-the-badge&logo=responsive&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### User Panel Views
+
+<table>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>Dashboard Overview</h3>
+      <kbd>
+        <img src="user-dashbaord-mealapp.png" alt="MealApp25 User Dashboard" width="100%" />
+      </kbd>
+      <br/>
+      <b>User Dashboard</b>
+      <br/>
+      <sub>Monthly balance, bazar cost, meal count, rent, due calculation, and member overview.</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <h3>User Login</h3>
+      <kbd>
+        <img src="mealapp-login page.png" alt="MealApp25 User Login Page" width="100%" />
+      </kbd>
+      <br/>
+      <b>Member Login Interface</b>
+      <br/>
+      <sub>Clean sign-in page for members to access meal and expense dashboard.</sub>
+    </td>
+    <td align="center" width="50%">
+      <h3>Meal Tracker</h3>
+      <kbd>
+        <img src="user-meal-tracker.png" alt="MealApp25 Meal Tracker" width="100%" />
+      </kbd>
+      <br/>
+      <b>Meal Tracking System</b>
+      <br/>
+      <sub>Monthly meal tracking with total meals, average meals, tracked days, and meal history.</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <h3>Cost Management</h3>
+      <kbd>
+        <img src="user-cost-management.png" alt="MealApp25 Cost Management" width="100%" />
+      </kbd>
+      <br/>
+      <b>Monthly Cost Overview</b>
+      <br/>
+      <sub>Flat cost overview including rent, electricity, gas, internet, and other bills.</sub>
+    </td>
+    <td align="center" width="50%">
+      <h3>Notification Center</h3>
+      <kbd>
+        <img src="user-notification.png" alt="MealApp25 User Notification" width="100%" />
+      </kbd>
+      <br/>
+      <b>Alerts & Notifications</b>
+      <br/>
+      <sub>Payment notifications with amount, member, date, note, and balance update status.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Payment & OTP Flow
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Send Money</h3>
+      <kbd>
+        <img src="user-send-money.png" alt="MealApp25 Send Money Modal" width="72%" />
+      </kbd>
+      <br/>
+      <b>Send Money Request</b>
+      <br/>
+      <sub>Member selection, amount input, description, and OTP request flow.</sub>
+    </td>
+    <td align="center" width="50%">
+      <h3>OTP Verification</h3>
+      <kbd>
+        <img src="user-send-money-verifications.png" alt="MealApp25 OTP Verification Modal" width="72%" />
+      </kbd>
+      <br/>
+      <b>Secure Transaction Confirmation</b>
+      <br/>
+      <sub>Email-based six-digit OTP verification for transaction confirmation.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Existing Desktop & Mobile Views
+
+<table>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>Navigation Experience</h3>
+      <kbd>
+        <img src="navbar.png" alt="MealApp25 Navbar" width="100%" />
+      </kbd>
+      <br/>
+      <b>Navigation Bar</b>
+      <br/>
+      <sub>User panel navigation with dashboard, bazar, water, meals, costs, alerts, and logout.</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <h3>Dashboard</h3>
+      <kbd>
+        <img src="dashboard.png" alt="MealApp25 Dashboard" width="100%" />
+      </kbd>
+      <br/>
+      <b>Dashboard Overview</b>
+      <br/>
+      <sub>User dashboard with monthly balance, bazar cost, meal summary, rent, and due calculation.</sub>
+    </td>
+    <td align="center" width="50%">
+      <h3>Bazar Section</h3>
+      <kbd>
+        <img src="bazar.png" alt="MealApp25 Bazar Page" width="100%" />
+      </kbd>
+      <br/>
+      <b>Bazar Management</b>
+      <br/>
+      <sub>Bazar entry and expense tracking interface for monthly shared cost management.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Mobile Views
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <kbd>
+        <img src="mobile-dashboard.png" alt="MealApp25 Mobile Dashboard" width="100%" />
+      </kbd>
+      <br/>
+      <b>Mobile Dashboard</b>
+    </td>
+    <td align="center" width="25%">
+      <kbd>
+        <img src="bazar-mobile.png" alt="MealApp25 Bazar Mobile" width="100%" />
+      </kbd>
+      <br/>
+      <b>Bazar Mobile</b>
+    </td>
+    <td align="center" width="25%">
+      <kbd>
+        <img src="monthly-cost.png" alt="MealApp25 Monthly Cost Mobile" width="100%" />
+      </kbd>
+      <br/>
+      <b>Monthly Cost</b>
+    </td>
+    <td align="center" width="25%">
+      <kbd>
+        <img src="alert.png" alt="MealApp25 Alert Mobile" width="100%" />
+      </kbd>
+      <br/>
+      <b>Alert System</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Admin Panel Views
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Admin Login</h3>
+      <kbd>
+        <img src="admin-login meal app.png" alt="MealApp25 Admin Login" width="72%" />
+      </kbd>
+      <br/>
+      <b>Admin Authentication</b>
+      <br/>
+      <sub>Dedicated admin login screen for secure management access.</sub>
+    </td>
+    <td align="center" width="50%">
+      <h3>Admin Dashboard</h3>
+      <kbd>
+        <img src="admin-dashboard.png" alt="MealApp25 Admin Dashboard" width="100%" />
+      </kbd>
+      <br/>
+      <b>Dashboard Overview</b>
+      <br/>
+      <sub>Admin overview with members, bazar, meals, meal rate, flat cost, duties, and statistics.</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <h3>Member Control</h3>
+      <kbd>
+        <img src="admin-member-management.png" alt="MealApp25 Admin Member Management" width="100%" />
+      </kbd>
+      <br/>
+      <b>Member Management</b>
+      <br/>
+      <sub>Manage members, active status, suspended users, inactive users, balance, and actions.</sub>
+    </td>
+    <td align="center" width="50%">
+      <h3>Bazar Entry</h3>
+      <kbd>
+        <img src="admin-monthly-bazar-entry.png" alt="MealApp25 Admin Bazar Management" width="100%" />
+      </kbd>
+      <br/>
+      <b>Bazar Management</b>
+      <br/>
+      <sub>Monthly bazar entries with date, member, description, amount, and delete actions.</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <h3>Bazar Request</h3>
+      <kbd>
+        <img src="admin-bazar-request-approval-rejection.png" alt="MealApp25 Admin Bazar Request" width="100%" />
+      </kbd>
+      <br/>
+      <b>Bazar Request Approval</b>
+      <br/>
+      <sub>Admin approval and rejection system for member bazar requests with status tracking.</sub>
+    </td>
+    <td align="center" width="50%">
+      <h3>Meal Entry</h3>
+      <kbd>
+        <img src="admin-meal-entry.png" alt="MealApp25 Admin Meal Entry" width="100%" />
+      </kbd>
+      <br/>
+      <b>Meal Entry Management</b>
+      <br/>
+      <sub>Meal records, monthly meal count, active members, tracked days, and member summary.</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <h3>Water Duty</h3>
+      <kbd>
+        <img src="water-duty.png" alt="MealApp25 Water Duty Management" width="100%" />
+      </kbd>
+      <br/>
+      <b>Water Duty Management</b>
+      <br/>
+      <sub>Water duty schedule with date, time, member, status, assigned time, and actions.</sub>
+    </td>
+    <td align="center" width="50%">
+      <h3>Settlement</h3>
+      <kbd>
+        <img src="admin-settelement-view.png" alt="MealApp25 Settlement Report" width="100%" />
+      </kbd>
+      <br/>
+      <b>Settlement & Reports</b>
+      <br/>
+      <sub>Settlement calculation with total bazar, total meals, meal rate, balance, receive, and due status.</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" colspan="2">
+      <h3>Flat Rent & Cost Allocation</h3>
+      <kbd>
+        <img src="admin-housrent-calculation-monthly.png" alt="MealApp25 House Rent Calculation" width="100%" />
+      </kbd>
+      <br/>
+      <b>Flat Rent & Monthly Cost Allocation</b>
+      <br/>
+      <sub>Member-wise rent, utility share, adjustment, total due, payment status, notes, and email actions.</sub>
+    </td>
+  </tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## 🤝 Let's Connect
 
