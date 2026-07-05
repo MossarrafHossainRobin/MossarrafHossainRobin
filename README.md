@@ -1,46 +1,40 @@
-
 <div align="center">
- <img src="git-profile-banner.jfif" alt="GitHub Header" width="150%" height="200px"   "/>
 
+<img src="git-profile-banner.jfif" alt="GitHub Profile Banner" width="100%" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=6C63FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Mossarraf+Hossain+Robin;Full-Stack+Developer;CSE+Student;Cybersecurity+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
+<h3>🎓 CSE Student at Green University of Bangladesh, Dhaka</h3>
 
+<p>
+  <b>Full-Stack Developer</b> | <b>Cybersecurity Enthusiast</b> | <b>Problem Solver</b><br/>
+  Building modern, responsive, secure, and scalable web applications.
+</p>
 
+<a href="https://linkedin.com/in/mossarrafhossainrobin">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/mossarrafhossainrobin">
+  <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="mailto:mossarrafhossainrobin@email.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
+<br/>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-🎓 **Computer Science and Engineering Student** at **Green University of Bangladesh, Dhaka**  
-💻 **FullStack Developer | Cybersecurity Enthusiast | Problem Solver**  
-🌱 *Passionate about creating innovative solutions, breaking complex challenges, and continuous learning.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mossarrafhossainrobin)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mossarrafhossainrobin)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mossarrafhossainrobin@email.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=mossarrafhossainrobin&label=Profile%20Views&color=0e75b6&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=mossarrafhossainrobin&label=Profile%20Views&color=6c63ff&style=flat-square" />
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
 ## 📌 About Me
 
-I am **Mossarraf Hossain Robin**, a passionate **Full-Stack Developer** focused on building modern, responsive, secure, and scalable web applications.I work with **React.js, Next.js, JavaScript, Tailwind CSS, Firebase, Firestore, Node.js, Express.js, MongoDB, and REST APIs** to create complete full-stack solutions.
+I am **Mossarraf Hossain Robin**, a passionate **Full-Stack Developer** focused on building modern, responsive, secure, and scalable web applications.
+
+I work with **React.js, Next.js, JavaScript, Tailwind CSS, Firebase, Firestore, Node.js, Express.js, MongoDB, MySQL, PHP, and REST APIs** to create complete full-stack solutions.
+
 I am also interested in **Cybersecurity** and secure application development, with a goal to grow as a versatile **Software Engineer**.
 
 ---
@@ -49,573 +43,407 @@ I am also interested in **Cybersecurity** and secure application development, wi
 
 <div align="center">
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()  
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)]()
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)]()
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)]()
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()  
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+### Programming Languages
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+
+### Frontend Development
+
+<img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
+
+<img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+
+### Backend & Database
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Firestore-ffca28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+
+### Tools, IDEs & Platforms
+
+<img src="https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" />
+<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
 
 </div>
 
 ---
 
-## 🛠 Tools & IDEs
-
-<div align="center">
-
-[![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
-[![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)]()
-[![CodeBlocks](https://img.shields.io/badge/CodeBlocks-9C27B0?style=for-the-badge&logo=codeblocks&logoColor=white)]()
-[![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)]()
-[![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)]()
-[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)]()
-
-</div>
-
----
 ## 🚀 Featured Projects
 
-#### Explore my top projects showcasing web development skills and responsive design:
-
-<table style="border-collapse: collapse; width: 100%;">
-  <thead>
-    <tr style="background-color: #f4f4f4; text-align: left;">
-      <th style="padding: 8px; border-bottom: 2px solid #ddd;">Project</th>
-      <th style="padding: 8px; border-bottom: 2px solid #ddd;">Description</th>
-      <th style="padding: 8px; border-bottom: 2px solid #ddd;">Tech Stack</th>
-      <th style="padding: 8px; border-bottom: 2px solid #ddd;">Repository</th>
-      <th style="padding: 8px; border-bottom: 2px solid #ddd;">Visit Site</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>MyPortfolio</b></a></td>
-      <td><span title="A personal portfolio website showcasing skills, projects, and contact information with a responsive design.">Portfolio showcasing skills & projects</span></td>
-      <td>  
-        <img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS-264de4?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
-       </td>
-     <td>
-        <a href="https://github.com/mossarrafhossainrobin/portfolio" target="_blank">
-          <img src="https://img.shields.io/badge/Visit_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </td>
-      <td>
-        <a href="https://mossarrafhossainrobin.github.io/portfolio/" target="_blank">
-          <img src="https://img.shields.io/badge/Visit_Site-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>OneBite</b></a></td>
-      <td><span title="A restaurant website with an online food ordering system, menu browsing, and mobile-responsive design.">Online Food ordering system</span></td>
-      <td>  
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS-264de4?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></td>
-      <td><a href="https://github.com/MossarrafHossainRobin/onebite" target="_blank"><img src="https://img.shields.io/badge/Visit_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit-Repo"/></a></td>
-      <td><a href="https://onebite.wuaze.com" target="_blank"><img src="https://img.shields.io/badge/Visit_Site-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Site"/></a></td>
-    </tr>
-    <tr>
-      <td><b>Elite Footwear</b></a></td>
-      <td><span title="An online shoe store platform with product browsing, add-to-cart, and purchase features, optimized for mobile.">Online shoe store & cart</span></td>
-      <td>  
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS-264de4?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></td>
-      <td><a href="https://github.com/MossarrafHossainRobin/elitefootwear" target="_blank"><img src="https://img.shields.io/badge/Visit_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit-Repo"/></a></td>
-      <td><a href="https://elitefootwear.wuaze.com" target="_blank"><img src="https://img.shields.io/badge/Visit_Site-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Site"/></a></td>
-    </tr>
-    <tr>
-      <td><b>Prottoy Foundation</b></a></td>
-      <td><span title="A charity platform with donation sections, awareness articles, events, and volunteer sign-up, designed for accessibility.">Charity & awareness platform</span></td>
-      <td style="padding: 8px; border-bottom: 1px solid #ddd;">  
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS-264de4?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></td>
-      <td ><a href="https://github.com/mossarrafhossainrobin/prottoy-foundation" target="_blank"><img src="https://img.shields.io/badge/Visit_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit-Repo"/></a></td>
-      <td ><a href="https://prottoyfoundation.wuaze.com/" target="_blank"><img src="https://img.shields.io/badge/Visit_Site-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Site"/></a></td>
-    </tr>
-  <tr>
-  <td><b>Line Coding Visualizer</b></td>
-  <td>
-    <span title="An educational tool to visualize digital line coding techniques (like NRZ, Manchester, etc.). Helps students understand encoding patterns in data communication. Built for learning purpose.">Educational line coding simulator</span>
-  </td>
-  <td style="padding: 8px; border-bottom: 1px solid #ddd;">  
-    <img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS-264de4?style=flat-square&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
-  </td>
-  <td>
-    <a href="https://github.com/mossarrafhossainrobin/Bit-by-Bit-line-coding-visualizer" target="_blank">
-      <img src="https://img.shields.io/badge/Visit_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit-Repo"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://mossarrafhossainrobin.github.io/Bit-by-Bit-Line-Coding-Visualizer/" target="_blank">
-      <img src="https://img.shields.io/badge/Visit_Site-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Site"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td><b>Inventory Management System</b></td>
-  <td>
-    <span title="A Java-based inventory management system featuring admin dashboard, user management, order tracking, and UI assets. Designed to simplify product and order management for businesses.">Java inventory management system with admin dashboard and order tracking</span>
-  </td>
-  <td style="padding: 8px; border-bottom: 1px solid #ddd;">  
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  </td>
-  <td>
-    <a href="https://github.com/MossarrafHossainRobin/Inventory-Management-System-Java-Swing-UI" target="_blank">
-      <img src="https://img.shields.io/badge/Visit_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit Repo"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://github.com/MossarrafHossainRobin/Inventory-Management-System-Java-Swing-UI" target="_blank">
-      <img src="https://img.shields.io/badge/Visit_Site-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Site"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td><b> Array Multiplier</b></td>
-  <td>
-    <span title="A Java-based and browser-compatible array multiplier that performs binary multiplication of decimal numbers, including sign-magnitude representation and logic gate visualization. Designed for educational and demonstration purposes.">Binary array multiplier with visual step tracking and sign handling</span>
-  </td>
-  <td style="padding: 8px; border-bottom: 1px solid #ddd;">  
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/Swing-6db33f?style=flat-square&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS-264de4?style=flat-square&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
-  </td>
-  <td>
-    <a href="https://github.com/MossarrafHossainRobin/Bit-To-Bit-Array-Multiplier" target="_blank">
-      <img src="https://img.shields.io/badge/Visit_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit Repo"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://mossarrafhossainrobin.github.io/Bit-To-Bit-Array-Multiplier/" target="_blank">
-      <img src="https://img.shields.io/badge/Visit_Site-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Site"/>
-    </a>
-  </td>
-</tr>
-
-<tr>
-  <td><b>NetOptima</b></td>
-  <td>
-    <span title="A Browser-Based Network Diagnostic Dashboard">Networking & IP Analyzer</span>
-  </td>
-  <td style="padding: 8px; border-bottom: 1px solid #ddd;">  
-    <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-    <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white" alt="Chart.js" />
-    <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" alt="D3.js" />
-  </td>
-  <td>
-    <a href="https://github.com/MossarrafHossainRobin/NetOptima" target="_blank">
-      <img src="https://img.shields.io/badge/Visit_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit Repo"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://netoptima.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Visit_Site-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Site"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td><b>NetOptima Prototype</b></td>
-  <td>
-    <span title="A Browser-Based Network Performance & Diagnostic Dashboard">Networking & IP Analyzer-2.0.1</span>
-  </td>
-  <td style="padding: 8px; border-bottom: 1px solid #ddd;">  
-    <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-    <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white" alt="Chart.js" />
-    <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" alt="D3.js" />
-  </td>
-  <td>
-    <a href="https://github.com/MossarrafHossainRobin/NetOptima" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://netoptima.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Site-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td><b>AgroCulture</b></td>
-  <td>
-    <span title="A PHP–MySQL Based Agricultural Marketplace for Farmers and Buyers">Smart Agricultural Marketplace</span>
-  </td>
-  <td style="padding: 8px; border-bottom: 1px solid #ddd;">  
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  </td>
-  <td>
-    <a href="https://github.com/MossarrafHossainRobin/AgroCulture-Management-System" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://agrocultureproject.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Site-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td><b>Meal App 25</b></td>
-  <td>
-    <span title="A Web Application for Managing Bazar, Meal Count, and Duty Assignment">Bazar & Meal Management System</span>
-  </td>
-  <td style="padding: 8px; border-bottom: 1px solid #ddd;">  
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  </td>
-  <td>
-    <a href="https://github.com/MossarrafHossainRobin/MealApp25/" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://mealapp25.unaux.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Site-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td><b> KaazBazar </b></td>
-  <td>
-    <span title="A Global Service Marketplace Platform connecting users with local service providers like electrician, plumber, AC repair, etc. with booking, tracking, and secure payment system">
-      Service Marketplace & Booking Platform
-    </span>
-  </td>
-  <td style="padding: 8px; border-bottom: 1px solid #ddd;">  
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-    <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  </td>
-  <td>
-    <a href="https://github.com/MossarrafHossainRobin/KaazBazar" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://kaazbazar26.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Site-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Site"/>
-    </a>
-  </td>
-</tr>
-
-
-
-  </tbody>
-</table>
-
-
----
-<div>
-
-## [📚 Educational Hub](https://github.com/MossarrafHossainRobin/Educational-Resources)
-
-
-
-<table>
-  <thead>
-    <tr>
-      <th>📁 Type</th>
-      <th>📌 Title</th>
-      <th>📝 Description</th>
-      <th>📄 Format</th>
-      <th>🔗 Link</th>
-    </tr>
-  </thead>
-  <tbody>
-       <tr>
-      <td>Books</td>
-      <td> Cyber Security </td>
-      <td> Textbook </td>
-      <td>
-       <img src="https://img.shields.io/badge/PDF-FF0000?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF" title="PDF" />
-      </td>
-      <td>
-        <a href="https://github.com/MossarrafHossainRobin/Educational-Resources/tree/main/Books" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/Download-FILE-0a66c2?style=flat-square&logo=archive&logoColor=white" alt="Download FILE" title="Download FILE" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>Assignment</td>
-      <td>Web Programming Assignment</td>
-      <td>Creating a user registration form with frontend validation and Bootstrap styling.</td>
-      <td>
-        <img src="https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html5&logoColor=white" alt="HTML" title="HTML" />
-        <img src="https://img.shields.io/badge/CSS-264de4?style=flat-square&logo=css3&logoColor=white" alt="CSS" title="CSS" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" title="Bootstrap" />
-        <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript" />
-      </td>
-      <td>
-        <a href="https://github.com/MossarrafHossainRobin/Educational-Resources/tree/main/Assignment" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/Download-FILE-0a66c2?style=flat-square&logo=archive&logoColor=white" alt="Download FILE" title="Download FILE" />
-        </a>
-      </td>
-    </tr>
-        <tr>
-      <td>Template</td>
-      <td>LaTeX Lab Report Template</td>
-      <td>A professional LaTeX template for writing structured lab reports with pre-defined sections, cover page, and formatting — ideal for university assignments.</td>
-      <td>
-        <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" title="LaTeX" />
-        <img src="https://img.shields.io/badge/ZIP-000000?style=flat-square&logo=zip&logoColor=white" alt="ZIP File" title="ZIP File" />
-      </td>
-      <td>
-        <a href="https://github.com/MossarrafHossainRobin/Educational-Resources/tree/main/Templates" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/Download-ZIP-0a66c2?style=flat-square&logo=archive&logoColor=white" alt="Download ZIP" title="Download LaTeX Template ZIP" />
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
+<div align="center">
+<b>Selected projects showcasing full-stack development, responsive UI, database integration, dashboards, and practical problem solving.</b>
 </div>
 
-#### Check out more projects on my [GitHub](https://github.com/mossarrafhossainrobin?tab=repositories)!
+<br/>
+
+<table>
+<thead>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Tech Stack</th>
+<th>Repository</th>
+<th>Live Site</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td><b>KaazBazar</b></td>
+<td>Service marketplace platform for local service booking and management.</td>
+<td>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white" />
+</td>
+<td><a href="https://github.com/MossarrafHossainRobin/KaazBazar"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
+<td><a href="https://kaazbazar26.vercel.app"><img src="https://img.shields.io/badge/Live-0a66c2?style=flat-square&logo=google-chrome&logoColor=white" /></a></td>
+</tr>
+
+<tr>
+<td><b>Meal App 25</b></td>
+<td>Bazar, meal count, monthly cost, duty, alerts, and member activity system.</td>
+<td>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
+</td>
+<td><a href="https://github.com/MossarrafHossainRobin/MealApp25/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
+<td><a href="https://mealapp25.unaux.com/"><img src="https://img.shields.io/badge/Live-0a66c2?style=flat-square&logo=google-chrome&logoColor=white" /></a></td>
+</tr>
+
+<tr>
+<td><b>NetOptima</b></td>
+<td>Browser-based network diagnostic dashboard and IP analyzer.</td>
+<td>
+<img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white" />
+</td>
+<td><a href="https://github.com/MossarrafHossainRobin/NetOptima"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
+<td><a href="https://netoptima.netlify.app/"><img src="https://img.shields.io/badge/Live-0a66c2?style=flat-square&logo=google-chrome&logoColor=white" /></a></td>
+</tr>
+
+<tr>
+<td><b>AgroCulture</b></td>
+<td>Agricultural marketplace for farmers and buyers.</td>
+<td>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
+</td>
+<td><a href="https://github.com/MossarrafHossainRobin/AgroCulture-Management-System"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
+<td><a href="https://agrocultureproject.netlify.app/"><img src="https://img.shields.io/badge/Live-0a66c2?style=flat-square&logo=google-chrome&logoColor=white" /></a></td>
+</tr>
+
+<tr>
+<td><b>MyPortfolio</b></td>
+<td>Personal portfolio website showcasing skills, projects, and contact information.</td>
+<td>
+<img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
+</td>
+<td><a href="https://github.com/mossarrafhossainrobin/portfolio"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
+<td><a href="https://mossarrafhossainrobin.github.io/portfolio/"><img src="https://img.shields.io/badge/Live-0a66c2?style=flat-square&logo=google-chrome&logoColor=white" /></a></td>
+</tr>
+
+<tr>
+<td><b>OneBite</b></td>
+<td>Restaurant website with online food ordering and responsive menu browsing.</td>
+<td>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
+</td>
+<td><a href="https://github.com/MossarrafHossainRobin/onebite"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
+<td><a href="https://onebite.wuaze.com"><img src="https://img.shields.io/badge/Live-0a66c2?style=flat-square&logo=google-chrome&logoColor=white" /></a></td>
+</tr>
+
+<tr>
+<td><b>Elite Footwear</b></td>
+<td>Online shoe store with product browsing, cart, and purchase features.</td>
+<td>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
+</td>
+<td><a href="https://github.com/MossarrafHossainRobin/elitefootwear"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
+<td><a href="https://elitefootwear.wuaze.com"><img src="https://img.shields.io/badge/Live-0a66c2?style=flat-square&logo=google-chrome&logoColor=white" /></a></td>
+</tr>
+
+<tr>
+<td><b>Prottoy Foundation</b></td>
+<td>Charity platform with donation, awareness, event, and volunteer sections.</td>
+<td>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
+</td>
+<td><a href="https://github.com/mossarrafhossainrobin/prottoy-foundation"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
+<td><a href="https://prottoyfoundation.wuaze.com/"><img src="https://img.shields.io/badge/Live-0a66c2?style=flat-square&logo=google-chrome&logoColor=white" /></a></td>
+</tr>
+
+<tr>
+<td><b>Line Coding Visualizer</b></td>
+<td>Educational simulator for visualizing digital line coding techniques.</td>
+<td>
+<img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
+</td>
+<td><a href="https://github.com/mossarrafhossainrobin/Bit-by-Bit-line-coding-visualizer"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
+<td><a href="https://mossarrafhossainrobin.github.io/Bit-by-Bit-Line-Coding-Visualizer/"><img src="https://img.shields.io/badge/Live-0a66c2?style=flat-square&logo=google-chrome&logoColor=white" /></a></td>
+</tr>
+
+<tr>
+<td><b>Inventory System</b></td>
+<td>Java-based inventory system with admin dashboard and order tracking.</td>
+<td>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Java_Swing-6db33f?style=flat-square&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</td>
+<td><a href="https://github.com/MossarrafHossainRobin/Inventory-Management-System-Java-Swing-UI"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
+<td><a href="https://github.com/MossarrafHossainRobin/Inventory-Management-System-Java-Swing-UI"><img src="https://img.shields.io/badge/Preview-6c63ff?style=flat-square&logo=github&logoColor=white" /></a></td>
+</tr>
+
+<tr>
+<td><b>Array Multiplier</b></td>
+<td>Binary array multiplier with visual steps and sign handling.</td>
+<td>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Swing-6db33f?style=flat-square&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
+</td>
+<td><a href="https://github.com/MossarrafHossainRobin/Bit-To-Bit-Array-Multiplier"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a></td>
+<td><a href="https://mossarrafhossainrobin.github.io/Bit-To-Bit-Array-Multiplier/"><img src="https://img.shields.io/badge/Live-0a66c2?style=flat-square&logo=google-chrome&logoColor=white" /></a></td>
+</tr>
+
+</tbody>
+</table>
+
+<div align="center">
+<a href="https://github.com/mossarrafhossainrobin?tab=repositories">
+  <img src="https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</div>
+
 ---
 
+## 📚 Educational Hub
 
+<div align="center">
+<a href="https://github.com/MossarrafHossainRobin/Educational-Resources">
+  <img src="https://img.shields.io/badge/Educational_Resources-Open_Repository-6c63ff?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</div>
 
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>Title</th>
+<th>Description</th>
+<th>Format</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Books</td>
+<td><b>Cyber Security</b></td>
+<td>Cybersecurity textbook and learning resources.</td>
+<td><img src="https://img.shields.io/badge/PDF-FF0000?style=flat-square&logo=adobeacrobatreader&logoColor=white" /></td>
+<td><a href="https://github.com/MossarrafHossainRobin/Educational-Resources/tree/main/Books"><img src="https://img.shields.io/badge/View-Files-0a66c2?style=flat-square&logo=github&logoColor=white" /></a></td>
+</tr>
+<tr>
+<td>Assignment</td>
+<td><b>Web Programming</b></td>
+<td>User registration form with validation and Bootstrap styling.</td>
+<td>
+<img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
+</td>
+<td><a href="https://github.com/MossarrafHossainRobin/Educational-Resources/tree/main/Assignment"><img src="https://img.shields.io/badge/View-Files-0a66c2?style=flat-square&logo=github&logoColor=white" /></a></td>
+</tr>
+<tr>
+<td>Template</td>
+<td><b>LaTeX Lab Report</b></td>
+<td>Professional LaTeX template for university lab reports.</td>
+<td>
+<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
+<img src="https://img.shields.io/badge/ZIP-000000?style=flat-square&logo=files&logoColor=white" />
+</td>
+<td><a href="https://github.com/MossarrafHossainRobin/Educational-Resources/tree/main/Templates"><img src="https://img.shields.io/badge/View-Files-0a66c2?style=flat-square&logo=github&logoColor=white" /></a></td>
+</tr>
+</tbody>
+</table>
+
+---
 
 ## 📊 GitHub Stats
 
-
-
-
-
 <table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=MossarrafHossainRobin&show_icons=true&theme=radical&count_private=true&hide_title=false&hide_border=false&border_radius=10" height="140px"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MossarrafHossainRobin&layout=compact&langs_count=8&theme=radical&hide_border=false&border_radius=10" height="140px"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=MossarrafHossainRobin&theme=radical&hide_border=false&border_radius=10" height="140px"/>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="50%">
+  <b>GitHub Overview</b><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MossarrafHossainRobin&show_icons=true&theme=radical&count_private=true&hide_border=false&border_radius=12" height="165px" />
+</td>
+<td align="center" width="50%">
+  <b>Most Used Languages</b><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MossarrafHossainRobin&layout=compact&langs_count=8&theme=radical&hide_border=false&border_radius=12" height="165px" />
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+  <b>Contribution Streak</b><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MossarrafHossainRobin&theme=radical&hide_border=false&border_radius=12" height="175px" />
+</td>
+</tr>
 </table>
 
 ---
-
 
 ## 📈 Detailed Statistics
 
 <table align="center">
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MossarrafHossainRobin&theme=2077" height="150px"/>
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MossarrafHossainRobin&theme=2077" height="150px"/>
-    </td>
-  </tr>
+<tr>
+<td align="center" colspan="2">
+  <b>Profile Summary</b><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MossarrafHossainRobin&theme=2077" width="95%" />
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+  <b>Productive Time</b><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MossarrafHossainRobin&theme=2077" height="165px" />
+</td>
+<td align="center" width="50%">
+  <b>Repositories Per Language</b><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MossarrafHossainRobin&theme=2077" height="165px" />
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+  <b>Commits Per Language</b><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MossarrafHossainRobin&theme=2077" height="165px" />
+</td>
+<td align="center" width="50%">
+  <b>Profile Details</b><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MossarrafHossainRobin&theme=2077" height="165px" />
+</td>
+</tr>
 </table>
-
 
 ---
 
 ## ⚡ Activity Graph
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MossarrafHossainRobin&theme=github-compact" width="95%"/>
-</div>
-
-
-
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MossarrafHossainRobin&theme=react-dark&hide_border=true&area=true" width="95%" />
+</td>
+</tr>
+</table>
 
 ---
 
+<div align="center">
+
 ![Animated quote](./quote-anim.svg)
 
+</div>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-<h2 align="left">MealApp25</h2>
+
+## MealApp25 Project Showcase
+
+<p>
+MealApp25 is a web application for managing meal count, bazar cost, monthly expenses, member activities, duty assignment, and alerts.
+</p>
 
 <div align="center">
 
-  <!-- Navbar (Full width) -->
-  <img src="navbar.png" alt="Navbar Mobile" width="100%" />
+<img src="navbar.png" alt="MealApp25 Navbar" width="100%" />
 
-  <!-- Dashboard Section -->
+<img src="dashboard.png" alt="MealApp25 Dashboard" width="82%" />
 
-  <img src="dashboard.png" alt="Dashboard" width="80%" />
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="mobile-dashboard.png" alt="Mobile Dashboard" width="100%" />
+<b>Mobile Dashboard</b>
+</td>
+<td align="center" width="25%">
+<img src="bazar-mobile.png" alt="Bazar Mobile" width="100%" />
+<b>Bazar Mobile</b>
+</td>
+<td align="center" width="25%">
+<img src="monthly-cost.png" alt="Monthly Cost" width="100%" />
+<b>Monthly Cost</b>
+</td>
+<td align="center" width="25%">
+<img src="alert.png" alt="Alert System" width="100%" />
+<b>Alert System</b>
+</td>
+</tr>
+</table>
 
-  <hr />
-
-  <!-- Mobile Section (All in one row) -->
-  <h3> Mobile Views</h3>
-
-  <div style="display: flex; justify-content: center; align-items: flex-start; gap: 15px;">
-    <img src="mobile-dashboard.png" alt="Bazar Mobile" width="22%" />
-    <img src="bazar-mobile.png" alt="Mobile Dashboard" width="22%" />
-    <img src="monthly-cost.png" alt="Monthly Cost" width="22%" />
-    <img src="alert.png" alt="Mobile Dashboard 2" width="22%" />
-  </div>
-
-  <hr />
-
-  <!-- Bazar Section -->
-  <img src="bazar.png" alt="Bazar" width="80%" />
+<img src="bazar.png" alt="MealApp25 Bazar Section" width="82%" />
 
 </div>
 
- <hr />
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
-<h1 align="center">NestHub</h1>
-
-<p align="center">
-  <b>Smart Meal Management & Shared Living Management Platform</b>
-</p>
-
-<p align="center">
-  NestHub is a modern full-stack web application designed to manage mess, hostel, shared flat, or bachelor house activities in an organized way. It helps users track meals, bazar costs, monthly expenses, member information, rent updates, alerts, and overall management from one clean dashboard.
-</p>
-
-<p align="center">
-  <b>Built with:</b> Next.js | React.js | Tailwind CSS | Firebase | Firestore | Authentication
-</p>
-
-<hr />
-
-<h2>Project Overview</h2>
-
-<p>
-  NestHub is created to make daily shared-living management easier. Instead of using notebooks, manual calculations, or scattered messages, this platform provides a digital system where members and admins can manage meal records, bazar costs, monthly cost summaries, notifications, and user activities in one place.
-</p>
-
-<h2>Key Features</h2>
-
-<ul>
-  <li>Modern responsive dashboard</li>
-  <li>Meal tracking system</li>
-  <li>Bazar cost management</li>
-  <li>Monthly cost calculation</li>
-  <li>Member management</li>
-  <li>House rent and payment status update</li>
-  <li>Internal alert and notification system</li>
-  <li>Mobile-friendly user interface</li>
-  <li>Firebase authentication and Firestore database</li>
-  <li>Clean, scalable, and organized project structure</li>
-</ul>
-
-<hr />
-
-<h2 align="center">Project Screenshots</h2>
+## 🤝 Let's Connect
 
 <div align="center">
 
-  <h3>1. Navbar / Landing Interface</h3>
-  <p>Clean and modern navigation section for the NestHub platform.</p>
-  <img src="picture-1.jpg" alt="NestHub Navbar" width="100%" />
+<p>I am open to collaboration, internships, freelance work, and full-stack project opportunities.</p>
 
-  <br /><br />
-  <hr />
+<a href="https://linkedin.com/in/mossarrafhossainrobin">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:mossarrafhossainrobin@email.com">
+  <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/mossarrafhossainrobin?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-  <h3>2. Main Dashboard</h3>
-  <p>Central dashboard for managing meal, bazar, members, rent, and cost-related information.</p>
-  <img src="picture-2.jpg" alt="NestHub Dashboard" width="85%" />
-
-  <br /><br />
-  <hr />
-
-  <h3>3. Mobile Dashboard View</h3>
-  <p>Responsive mobile dashboard view for easy access from smartphones.</p>
-  <img src="picture-3.jpg" alt="NestHub Mobile Dashboard" width="55%" />
-
-  <br /><br />
-  <hr />
-
-  <h3>4. Monthly Cost View</h3>
-  <p>Monthly cost summary section for tracking total expenses and member-wise calculations.</p>
-  <img src="picture-5.jpg" alt="NestHub Monthly Cost" width="45%" />
-
-  <br /><br />
-  <hr />
-
-  <h3>5. Alert / Notification View</h3>
-  <p>Internal notification system for rent, payment, due, and important updates.</p>
-  <img src="picture-6.jpg" alt="NestHub Alert Notification" width="45%" />
-
-  <br /><br />
-  <hr />
-
-  <h3>6. Bazar Management Section</h3>
-  <p>Desktop bazar management page for recording and monitoring daily market expenses.</p>
-  <img src="picture-7.jpg" alt="NestHub Bazar Management" width="85%" />
+<h3>Thanks for visiting my GitHub profile</h3>
 
 </div>
-
-<hr />
-
-<h2>Technology Stack</h2>
-
-<ul>
-  <li><b>Frontend:</b> React.js, Next.js, Tailwind CSS</li>
-  <li><b>Backend:</b> Firebase, Firestore</li>
-  <li><b>Authentication:</b> Firebase Authentication</li>
-  <li><b>Database:</b> Cloud Firestore</li>
-  <li><b>Deployment:</b> Vercel / Firebase Hosting</li>
-</ul>
-
-<hr />
-
-<h2>Purpose of the Project</h2>
-
-<p>
-  The main purpose of NestHub is to simplify shared living management by providing a smart, clean, and digital solution. It reduces manual work, improves transparency, and helps members clearly understand meal costs, monthly expenses, rent status, and payment updates.
-</p>
-
-<hr />
-
-<p align="center">
-  <b>Developed by Mossarraf Hossain Robin</b>
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
