@@ -1252,29 +1252,33 @@ I am also deeply interested in **Cybersecurity**, secure coding practices, authe
 </p>
 
 <p>
+  <a href="https://mossarrafhossainrobin.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="36" height="36" alt="Website" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/mossarrafhossainrobin" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="32" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="36" height="36" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/mossarrafhossainrobin" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/github/181717" height="32" alt="GitHub" />
+    <img src="https://img.icons8.com/glyph-neue/64/github.png" width="36" height="36" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/mossarrafhossainrobin" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="32" alt="Facebook" />
+    <img src="https://img.icons8.com/color/48/facebook-new.png" width="36" height="36" alt="Facebook" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://wa.me/880131247030" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="32" alt="WhatsApp" />
+  <a href="https://wa.me/8801312427030" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="36" height="36" alt="WhatsApp" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:mossarrafhossainrobin@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="32" alt="Gmail" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="36" height="36" alt="Gmail" />
   </a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Available_for-Full--Stack_Projects-6C63FF?style=flat-square&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Available_for-Full--Stack_Web_Projects-6C63FF?style=flat-square&logo=rocket&logoColor=white" />
   <img src="https://img.shields.io/badge/Response-Professional_%26_Fast-22C55E?style=flat-square&logo=googlemessages&logoColor=white" />
 </p>
 
