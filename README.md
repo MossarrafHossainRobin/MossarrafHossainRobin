@@ -2,36 +2,27 @@
 
 <img src="git-profile-banner.jfif" alt="GitHub Profile Banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=6C63FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Mossarraf+Hossain+Robin;Full-Stack+Developer;CSE+Student;Cybersecurity+Enthusiast;Problem+Solver" alt="Typing SVG" />
-
-<h3>🎓 CSE Student at Green University of Bangladesh, Dhaka</h3>
+<h3>🎓 CSE Student | Full-Stack Developer | Cybersecurity Enthusiast</h3>
 
 <p>
-  <b>Full-Stack Developer</b> | <b>Cybersecurity Enthusiast</b> | <b>Problem Solver</b><br/>
   Building modern, responsive, secure, and scalable web applications.
 </p>
 
+<a href="#project-showcase">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=900&color=E91E63&center=true&vCenter=true&width=430&height=35&lines=%F0%9F%91%89+Click+Here+to+View+Projects;%F0%9F%91%89+Explore+Project+Screenshots" alt="Click Here to View Projects" />
+</a>
+
+<br/>
+
 <a href="https://linkedin.com/in/mossarrafhossainrobin" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.facebook.com/mossarrafhossainrobin" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
 </a>
 <a href="mailto:mossarrafhossainrobin@email.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-
-<br/><br/>
-
-<a href="#project-showcase">
-  <img src="https://img.shields.io/badge/View_Project_Showcase-E91E63?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="#mealapp25-project-showcase">
-  <img src="https://img.shields.io/badge/MealApp25_Screenshots-6C63FF?style=for-the-badge&logo=googlephotos&logoColor=white" />
-</a>
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=mossarrafhossainrobin&label=Profile%20Views&color=6c63ff&style=flat-square" />
 
 </div>
