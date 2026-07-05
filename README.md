@@ -167,6 +167,26 @@ I am also deeply interested in **Cybersecurity**, secure coding practices, authe
 </td>
 </tr>
 <tr>
+  <tr>
+<td><b>NestHub</b></td>
+<td>Upgraded version of Meal App 25 with modern meal, bazar, member, cost, duty, and shared living management features using a Next.js-based interface.</td>
+<td>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
+</td>
+<td>
+<a href="https://github.com/MossarrafHossainRobin/colive" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+<td>
+<a href="https://colive-pi.vercel.app/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Live_Preview-0a66c2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+</td>
+</tr>
 <td><b>Meal App 25</b></td>
 <td>Bazar, meal count, monthly cost, duty, alerts, and member activity system.</td>
 <td>
