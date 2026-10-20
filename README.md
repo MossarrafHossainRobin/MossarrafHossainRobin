@@ -2,11 +2,13 @@
 
 <img src="Robin Hossain Tech Portfolio Banner.png" alt="GitHub Profile Banner" width="100%" />
 
-<h3>🎓 CSE Student | Full-Stack Developer | Cybersecurity Enthusiast</h3>
+
+<h3>Full-Stack Developer | Aspiring AI Engineer | AI Agents & Automation</h3>
 
 <p>
-  Building modern, responsive, secure, and scalable web applications.
+  Building modern, responsive, and scalable web applications while exploring Generative AI, LLM Applications, AI Agents, and intelligent workflow automation.
 </p>
+
 
 <a href="#project-showcase">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=900&color=E91E63&center=true&vCenter=true&width=430&height=35&lines=%F0%9F%91%89+Click+Here+to+View+Projects;%F0%9F%91%89+Explore+Project+Screenshots" alt="Click Here to View Projects" />
