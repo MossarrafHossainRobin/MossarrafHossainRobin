@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Robin Hossain AI Tech Banner.png" alt="GitHub Profile Banner" width="100%" />
+<img src="Modern Tech Portfolio Header Banner1.png" alt="GitHub Profile Banner" width="100%" />
 
 <h3>🎓 CSE Student | Full-Stack Developer | Cybersecurity Enthusiast</h3>
 
